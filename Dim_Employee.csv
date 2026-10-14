@@ -1,0 +1,1501 @@
+EmployeeID,Gender,MaritalStatus,Age,Education,EducationLevel,EducationField,JobRole,JobLevel,JobLevelName,BusinessTravel,OverTime,ExitType,PrimaryReason,ReasonCategory
+E1001,Male,Divorced,51,4,Master,Human Resources,Sales Executive,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1002,Male,Divorced,28,2,College,Medical,Financial Analyst,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1003,Male,Married,44,4,Master,Medical,Research Director,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1004,Male,Divorced,29,4,Master,Life Sciences,Laboratory Technician,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1005,Female,Married,36,3,Bachelor,Life Sciences,Laboratory Technician,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1006,Female,Married,41,2,College,Medical,Supply Chain Analyst,2,Junior,Travel Frequently,Yes,Still Employed,Not Applicable,Not Applicable
+E1007,Male,Married,25,2,College,Life Sciences,Data Analyst,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1008,Male,Married,34,3,Bachelor,Other,Sales Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1009,Female,Divorced,37,3,Bachelor,Marketing,Supply Chain Analyst,1,Entry,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1010,Male,Married,42,2,College,Life Sciences,Research Director,3,Mid,Travel Frequently,Yes,Still Employed,Not Applicable,Not Applicable
+E1011,Female,Married,35,3,Bachelor,Life Sciences,Data Analyst,1,Entry,Travel Frequently,Yes,Still Employed,Not Applicable,Not Applicable
+E1012,Male,Single,60,3,Bachelor,Marketing,Software Engineer,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1013,Female,Married,54,4,Master,Marketing,Finance Manager,4,Senior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1014,Female,Single,20,4,Master,Medical,Operations Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1015,Female,Married,38,4,Master,Other,Talent Partner,3,Mid,Travel Frequently,No,Voluntary,Better Compensation,Pay
+E1016,Male,Divorced,42,1,Below College,Life Sciences,Software Engineer,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1017,Female,Divorced,40,1,Below College,Human Resources,Research Director,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1018,Male,Single,50,3,Bachelor,Medical,Laboratory Technician,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1019,Male,Married,20,3,Bachelor,Technical Degree,Research Scientist,1,Entry,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1020,Female,Married,27,3,Bachelor,Life Sciences,Sales Executive,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1021,Male,Single,51,3,Bachelor,Life Sciences,HR Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1022,Female,Married,48,3,Bachelor,Technical Degree,Research Scientist,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1023,Male,Married,58,2,College,Marketing,Operations Manager,4,Senior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1024,Female,Single,52,2,College,Life Sciences,Sales Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1025,Male,Married,25,3,Bachelor,Medical,Research Scientist,2,Junior,Travel Frequently,Yes,Still Employed,Not Applicable,Not Applicable
+E1026,Female,Divorced,46,2,College,Technical Degree,Research Director,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1027,Male,Single,34,4,Master,Marketing,Sales Executive,2,Junior,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1028,Male,Divorced,39,2,College,Marketing,Finance Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1029,Female,Married,38,3,Bachelor,Other,Research Scientist,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1030,Male,Divorced,33,3,Bachelor,Human Resources,Research Scientist,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1031,Male,Married,32,2,College,Medical,Sales Manager,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1032,Male,Married,44,3,Bachelor,Technical Degree,Software Engineer,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1033,Male,Divorced,32,4,Master,Technical Degree,Operations Executive,2,Junior,Travel Rarely,Yes,Voluntary,Higher Studies,Personal
+E1034,Male,Single,39,3,Bachelor,Medical,Financial Analyst,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1035,Male,Divorced,41,3,Bachelor,Life Sciences,Research Scientist,1,Entry,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1036,Female,Single,32,4,Master,Marketing,Data Analyst,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1037,Female,Married,34,3,Bachelor,Medical,Finance Manager,3,Mid,Travel Frequently,No,Involuntary,Performance Termination,Company Initiated
+E1038,Female,Married,47,1,Below College,Life Sciences,Research Scientist,2,Junior,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1039,Male,Divorced,22,3,Bachelor,Technical Degree,IT Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1040,Male,Married,31,4,Master,Technical Degree,Research Scientist,2,Junior,Travel Rarely,No,Voluntary,Organisational Culture,Work Environment
+E1041,Female,Married,25,3,Bachelor,Technical Degree,Supply Chain Analyst,2,Junior,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1042,Female,Married,39,1,Below College,Medical,Research Scientist,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1043,Female,Married,60,4,Master,Other,Laboratory Technician,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1044,Male,Married,26,3,Bachelor,Life Sciences,Operations Executive,1,Entry,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1045,Female,Single,48,2,College,Other,Sales Executive,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1046,Male,Single,50,3,Bachelor,Life Sciences,Research Director,3,Mid,Non-Travel,No,Voluntary,Lack of Career Growth,Growth
+E1047,Male,Married,20,3,Bachelor,Medical,Financial Analyst,1,Entry,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1048,Male,Married,25,4,Master,Life Sciences,Sales Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1049,Male,Married,37,3,Bachelor,Life Sciences,Operations Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1050,Male,Single,28,4,Master,Life Sciences,Talent Partner,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1051,Male,Divorced,40,3,Bachelor,Medical,Financial Analyst,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1052,Male,Married,49,4,Master,Medical,Research Director,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1053,Female,Single,43,4,Master,Medical,Research Director,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1054,Male,Married,35,5,Doctor,Technical Degree,Research Scientist,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1055,Male,Married,42,4,Master,Life Sciences,Research Director,3,Mid,Travel Rarely,No,Voluntary,Job Role Mismatch,Growth
+E1056,Female,Single,40,4,Master,Other,Supply Chain Analyst,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1057,Male,Married,26,2,College,Life Sciences,Accountant,2,Junior,Travel Rarely,No,Voluntary,Job Role Mismatch,Growth
+E1058,Male,Married,32,2,College,Medical,Research Director,3,Mid,Travel Rarely,No,Voluntary,Work Life Imbalance,Work Environment
+E1059,Female,Single,41,3,Bachelor,Other,Sales Executive,2,Junior,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1060,Male,Married,36,4,Master,Life Sciences,Operations Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1061,Female,Married,40,3,Bachelor,Human Resources,HR Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1062,Male,Married,45,4,Master,Other,Laboratory Technician,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1063,Female,Divorced,20,2,College,Technical Degree,Research Scientist,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1064,Female,Single,50,3,Bachelor,Other,Sales Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1065,Male,Single,20,2,College,Other,Software Engineer,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1066,Male,Married,37,3,Bachelor,Life Sciences,IT Manager,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1067,Female,Married,38,5,Doctor,Technical Degree,Sales Manager,3,Mid,Travel Rarely,Yes,Voluntary,Better Compensation,Pay
+E1068,Male,Single,36,2,College,Life Sciences,Research Scientist,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1069,Female,Single,39,3,Bachelor,Life Sciences,Operations Executive,3,Mid,Travel Frequently,Yes,Still Employed,Not Applicable,Not Applicable
+E1070,Female,Married,32,5,Doctor,Life Sciences,Laboratory Technician,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1071,Female,Divorced,30,4,Master,Technical Degree,Accountant,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1072,Male,Married,36,1,Below College,Life Sciences,Research Scientist,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1073,Male,Divorced,39,3,Bachelor,Medical,Operations Manager,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1074,Male,Married,31,4,Master,Life Sciences,Software Engineer,2,Junior,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1075,Female,Married,40,1,Below College,Marketing,Data Analyst,3,Mid,Travel Frequently,No,Voluntary,Work Life Imbalance,Work Environment
+E1076,Male,Divorced,29,2,College,Medical,Finance Manager,3,Mid,Travel Rarely,Yes,Voluntary,Poor Manager Relationship,Management
+E1077,Female,Married,32,4,Master,Marketing,Sales Representative,3,Mid,Travel Rarely,Yes,Involuntary,Performance Termination,Company Initiated
+E1078,Male,Divorced,35,4,Master,Marketing,Data Analyst,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1079,Female,Married,41,2,College,Life Sciences,Sales Executive,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1080,Male,Married,34,1,Below College,Medical,Research Scientist,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1081,Male,Single,40,1,Below College,Technical Degree,Research Scientist,1,Entry,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1082,Male,Single,51,4,Master,Technical Degree,Operations Executive,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1083,Male,Married,33,3,Bachelor,Marketing,Research Director,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1084,Female,Married,49,1,Below College,Other,Sales Representative,3,Mid,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E1085,Male,Divorced,25,2,College,Marketing,Sales Manager,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1086,Female,Divorced,43,2,College,Technical Degree,Financial Analyst,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1087,Female,Single,35,5,Doctor,Medical,Research Scientist,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1088,Male,Divorced,56,4,Master,Medical,Accountant,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1089,Male,Married,32,3,Bachelor,Life Sciences,Finance Manager,3,Mid,Travel Frequently,Yes,Voluntary,Organisational Culture,Work Environment
+E1090,Male,Divorced,29,4,Master,Medical,Software Engineer,2,Junior,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E1091,Male,Single,46,4,Master,Life Sciences,Data Analyst,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1092,Male,Married,41,3,Bachelor,Medical,Sales Representative,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1093,Female,Single,38,3,Bachelor,Life Sciences,Data Analyst,2,Junior,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1094,Female,Single,20,2,College,Life Sciences,Operations Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1095,Female,Married,40,1,Below College,Medical,Accountant,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1096,Female,Married,36,1,Below College,Medical,Operations Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1097,Male,Divorced,38,3,Bachelor,Other,HR Executive,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1098,Female,Divorced,30,4,Master,Other,Software Engineer,1,Entry,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1099,Female,Single,49,3,Bachelor,Medical,Sales Representative,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1100,Male,Single,37,3,Bachelor,Marketing,Financial Analyst,2,Junior,Travel Rarely,No,Voluntary,Poor Manager Relationship,Management
+E1101,Female,Married,35,4,Master,Technical Degree,Data Analyst,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1102,Male,Divorced,23,3,Bachelor,Marketing,Sales Executive,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1103,Female,Divorced,35,4,Master,Life Sciences,Accountant,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1104,Female,Single,27,3,Bachelor,Medical,Laboratory Technician,1,Entry,Travel Rarely,No,Voluntary,Relocation,Personal
+E1105,Female,Single,49,3,Bachelor,Marketing,Supply Chain Analyst,3,Mid,Travel Frequently,Yes,Still Employed,Not Applicable,Not Applicable
+E1106,Female,Married,39,1,Below College,Medical,Sales Executive,3,Mid,Travel Rarely,No,Voluntary,Better Compensation,Pay
+E1107,Female,Divorced,31,4,Master,Medical,Financial Analyst,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1108,Male,Married,35,5,Doctor,Other,IT Manager,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1109,Male,Single,50,2,College,Life Sciences,Finance Manager,4,Senior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1110,Female,Married,38,2,College,Life Sciences,Laboratory Technician,2,Junior,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1111,Male,Single,37,3,Bachelor,Life Sciences,Operations Manager,4,Senior,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E1112,Female,Divorced,53,4,Master,Life Sciences,Research Scientist,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1113,Female,Single,40,4,Master,Life Sciences,Operations Executive,3,Mid,Non-Travel,Yes,Still Employed,Not Applicable,Not Applicable
+E1114,Male,Married,45,4,Master,Technical Degree,Sales Executive,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1115,Male,Divorced,34,1,Below College,Marketing,Research Scientist,2,Junior,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1116,Female,Married,33,3,Bachelor,Life Sciences,Sales Executive,2,Junior,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1117,Male,Single,44,2,College,Marketing,Sales Executive,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1118,Male,Single,36,4,Master,Other,Accountant,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1119,Male,Divorced,40,3,Bachelor,Other,Sales Representative,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1120,Female,Married,36,2,College,Medical,HR Executive,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1121,Male,Divorced,37,4,Master,Medical,Operations Manager,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1122,Female,Divorced,36,3,Bachelor,Medical,Software Engineer,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1123,Male,Single,25,4,Master,Medical,Research Scientist,1,Entry,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E1124,Male,Married,48,4,Master,Life Sciences,Laboratory Technician,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1125,Female,Married,31,1,Below College,Technical Degree,Research Director,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1126,Female,Single,26,3,Bachelor,Technical Degree,Sales Executive,1,Entry,Travel Rarely,No,Voluntary,Better Compensation,Pay
+E1127,Male,Married,37,3,Bachelor,Medical,Operations Executive,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1128,Male,Divorced,31,2,College,Medical,IT Manager,3,Mid,Travel Frequently,No,Voluntary,Lack of Career Growth,Growth
+E1129,Male,Married,48,2,College,Human Resources,Research Director,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1130,Male,Divorced,42,4,Master,Life Sciences,Financial Analyst,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1131,Male,Single,31,4,Master,Life Sciences,Data Analyst,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1132,Female,Divorced,29,4,Master,Medical,Supply Chain Analyst,2,Junior,Travel Frequently,Yes,Voluntary,Better Compensation,Pay
+E1133,Male,Single,42,4,Master,Marketing,Operations Executive,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1134,Female,Married,30,3,Bachelor,Other,Data Analyst,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1135,Male,Married,24,1,Below College,Marketing,Sales Executive,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1136,Male,Single,22,3,Bachelor,Medical,Operations Executive,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1137,Male,Married,43,3,Bachelor,Life Sciences,Operations Executive,3,Mid,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E1138,Male,Divorced,23,4,Master,Life Sciences,IT Manager,3,Mid,Non-Travel,Yes,Still Employed,Not Applicable,Not Applicable
+E1139,Male,Married,26,3,Bachelor,Life Sciences,Laboratory Technician,2,Junior,Travel Frequently,No,Voluntary,Work Life Imbalance,Work Environment
+E1140,Male,Single,43,2,College,Other,Operations Executive,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1141,Male,Single,44,3,Bachelor,Other,Accountant,2,Junior,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1142,Female,Single,26,1,Below College,Marketing,Research Director,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1143,Female,Divorced,31,2,College,Human Resources,Sales Executive,2,Junior,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1144,Female,Single,45,2,College,Other,Research Director,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1145,Male,Single,39,4,Master,Technical Degree,IT Manager,3,Mid,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E1146,Male,Single,33,1,Below College,Medical,Sales Executive,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1147,Female,Single,38,5,Doctor,Other,Sales Representative,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1148,Male,Single,40,4,Master,Medical,Laboratory Technician,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1149,Male,Single,27,4,Master,Life Sciences,Sales Representative,1,Entry,Travel Rarely,No,Voluntary,Health or Personal,Personal
+E1150,Male,Married,28,4,Master,Medical,Research Director,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1151,Male,Married,47,3,Bachelor,Technical Degree,IT Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1152,Male,Married,52,4,Master,Medical,Research Scientist,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1153,Female,Married,45,5,Doctor,Marketing,Financial Analyst,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1154,Male,Single,35,4,Master,Human Resources,Sales Representative,2,Junior,Travel Frequently,Yes,Voluntary,Better Compensation,Pay
+E1155,Female,Divorced,31,1,Below College,Life Sciences,Operations Executive,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1156,Female,Married,37,3,Bachelor,Life Sciences,Sales Executive,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1157,Male,Single,46,4,Master,Medical,Supply Chain Analyst,3,Mid,Travel Frequently,Yes,Voluntary,Job Role Mismatch,Growth
+E1158,Male,Married,48,3,Bachelor,Medical,Research Scientist,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1159,Male,Divorced,37,1,Below College,Medical,Sales Manager,3,Mid,Non-Travel,Yes,Voluntary,Better Compensation,Pay
+E1160,Female,Divorced,40,3,Bachelor,Life Sciences,Operations Executive,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1161,Male,Married,24,1,Below College,Human Resources,Accountant,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1162,Male,Single,35,3,Bachelor,Other,Research Director,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1163,Female,Divorced,50,2,College,Medical,Sales Manager,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1164,Female,Married,35,3,Bachelor,Medical,Supply Chain Analyst,2,Junior,Travel Rarely,Yes,Voluntary,Job Role Mismatch,Growth
+E1165,Female,Divorced,41,3,Bachelor,Medical,Research Director,3,Mid,Travel Frequently,Yes,Still Employed,Not Applicable,Not Applicable
+E1166,Male,Married,45,3,Bachelor,Life Sciences,Sales Manager,3,Mid,Non-Travel,Yes,Still Employed,Not Applicable,Not Applicable
+E1167,Female,Married,44,4,Master,Medical,IT Manager,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1168,Female,Divorced,38,1,Below College,Medical,Sales Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1169,Male,Divorced,32,2,College,Human Resources,Sales Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1170,Male,Divorced,20,1,Below College,Life Sciences,Research Director,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1171,Male,Single,26,5,Doctor,Marketing,Sales Executive,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1172,Female,Divorced,34,2,College,Life Sciences,Research Scientist,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1173,Male,Single,43,5,Doctor,Medical,Accountant,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1174,Male,Divorced,39,1,Below College,Marketing,Data Analyst,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1175,Female,Married,47,3,Bachelor,Life Sciences,Software Engineer,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1176,Female,Married,26,4,Master,Life Sciences,Sales Representative,1,Entry,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1177,Female,Single,21,1,Below College,Life Sciences,Data Analyst,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1178,Male,Married,42,2,College,Life Sciences,Sales Executive,1,Entry,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E1179,Female,Single,53,4,Master,Human Resources,IT Manager,5,Executive,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1180,Female,Divorced,38,2,College,Life Sciences,Research Director,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1181,Male,Married,32,2,College,Medical,Operations Executive,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1182,Female,Single,45,4,Master,Other,Supply Chain Analyst,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1183,Female,Married,49,1,Below College,Marketing,Data Analyst,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1184,Female,Single,26,3,Bachelor,Technical Degree,Data Analyst,1,Entry,Travel Rarely,Yes,Voluntary,Better Compensation,Pay
+E1185,Male,Married,34,2,College,Life Sciences,Laboratory Technician,1,Entry,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E1186,Male,Married,46,3,Bachelor,Medical,Financial Analyst,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1187,Male,Single,39,4,Master,Life Sciences,Supply Chain Analyst,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1188,Male,Married,30,2,College,Marketing,Sales Manager,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1189,Female,Single,34,3,Bachelor,Other,Operations Executive,2,Junior,Travel Rarely,No,Voluntary,Better Compensation,Pay
+E1190,Male,Married,29,3,Bachelor,Life Sciences,Research Director,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1191,Male,Married,24,3,Bachelor,Marketing,Sales Executive,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1192,Female,Single,40,3,Bachelor,Medical,Talent Partner,2,Junior,Travel Rarely,Yes,Voluntary,Organisational Culture,Work Environment
+E1193,Male,Single,25,5,Doctor,Life Sciences,Research Director,3,Mid,Travel Rarely,Yes,Voluntary,Relocation,Personal
+E1194,Male,Married,36,4,Master,Other,Accountant,3,Mid,Travel Rarely,No,Voluntary,Job Role Mismatch,Growth
+E1195,Male,Divorced,28,4,Master,Other,Supply Chain Analyst,2,Junior,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1196,Male,Single,41,4,Master,Life Sciences,Research Scientist,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1197,Male,Divorced,33,2,College,Medical,Software Engineer,2,Junior,Travel Frequently,Yes,Voluntary,Work Life Imbalance,Work Environment
+E1198,Female,Married,34,4,Master,Medical,Sales Executive,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1199,Male,Married,23,3,Bachelor,Other,Research Scientist,2,Junior,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1200,Male,Married,39,4,Master,Medical,Laboratory Technician,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1201,Male,Single,33,2,College,Life Sciences,Supply Chain Analyst,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1202,Male,Single,29,4,Master,Life Sciences,Operations Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1203,Male,Single,40,2,College,Other,Sales Executive,3,Mid,Travel Rarely,No,Voluntary,Health or Personal,Personal
+E1204,Female,Married,45,4,Master,Other,Operations Executive,1,Entry,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E1205,Male,Single,52,4,Master,Technical Degree,Supply Chain Analyst,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1206,Female,Married,38,3,Bachelor,Medical,Operations Executive,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1207,Male,Married,39,3,Bachelor,Life Sciences,Sales Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1208,Female,Married,28,1,Below College,Life Sciences,Sales Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1209,Male,Single,30,3,Bachelor,Medical,Data Analyst,2,Junior,Travel Rarely,No,Voluntary,Poor Manager Relationship,Management
+E1210,Male,Married,47,3,Bachelor,Marketing,Software Engineer,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1211,Female,Married,33,5,Doctor,Life Sciences,Sales Manager,3,Mid,Travel Frequently,Yes,Still Employed,Not Applicable,Not Applicable
+E1212,Male,Married,53,3,Bachelor,Medical,Accountant,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1213,Female,Married,26,2,College,Life Sciences,Laboratory Technician,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1214,Male,Married,35,3,Bachelor,Life Sciences,Laboratory Technician,1,Entry,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1215,Female,Single,35,1,Below College,Life Sciences,Sales Manager,3,Mid,Travel Frequently,No,Voluntary,Poor Manager Relationship,Management
+E1216,Female,Married,31,4,Master,Marketing,Research Director,3,Mid,Non-Travel,Yes,Still Employed,Not Applicable,Not Applicable
+E1217,Male,Single,34,3,Bachelor,Medical,Research Scientist,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1218,Male,Divorced,35,4,Master,Life Sciences,Software Engineer,1,Entry,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1219,Female,Married,38,3,Bachelor,Technical Degree,Finance Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1220,Male,Divorced,36,3,Bachelor,Marketing,Sales Manager,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1221,Female,Married,46,4,Master,Life Sciences,Laboratory Technician,2,Junior,Non-Travel,Yes,Still Employed,Not Applicable,Not Applicable
+E1222,Female,Single,59,3,Bachelor,Life Sciences,Research Director,4,Senior,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E1223,Female,Married,44,2,College,Technical Degree,Finance Manager,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1224,Female,Married,40,2,College,Life Sciences,Talent Partner,2,Junior,Travel Rarely,No,Voluntary,Job Role Mismatch,Growth
+E1225,Male,Single,28,4,Master,Life Sciences,Research Director,3,Mid,Travel Rarely,Yes,Voluntary,Work Life Imbalance,Work Environment
+E1226,Male,Married,32,2,College,Life Sciences,Laboratory Technician,1,Entry,Travel Rarely,Yes,Voluntary,Better Compensation,Pay
+E1227,Male,Single,22,1,Below College,Life Sciences,Accountant,1,Entry,Travel Frequently,Yes,Still Employed,Not Applicable,Not Applicable
+E1228,Female,Divorced,41,1,Below College,Marketing,IT Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1229,Male,Single,24,4,Master,Life Sciences,Accountant,2,Junior,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1230,Female,Divorced,43,3,Bachelor,Medical,IT Manager,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1231,Male,Married,30,2,College,Technical Degree,Sales Representative,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1232,Male,Married,40,2,College,Life Sciences,Sales Manager,4,Senior,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1233,Female,Married,42,4,Master,Other,IT Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1234,Female,Single,20,3,Bachelor,Other,Financial Analyst,2,Junior,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1235,Female,Married,30,3,Bachelor,Medical,Research Director,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1236,Male,Married,40,2,College,Medical,Research Director,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1237,Female,Single,41,2,College,Life Sciences,Laboratory Technician,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1238,Female,Married,44,3,Bachelor,Marketing,Operations Manager,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1239,Male,Divorced,34,5,Doctor,Other,Laboratory Technician,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1240,Male,Married,36,2,College,Medical,Laboratory Technician,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1241,Male,Married,53,3,Bachelor,Life Sciences,Operations Executive,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1242,Male,Single,39,3,Bachelor,Life Sciences,Data Analyst,2,Junior,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E1243,Female,Married,44,3,Bachelor,Medical,IT Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1244,Male,Divorced,35,3,Bachelor,Life Sciences,Research Director,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1245,Male,Married,23,3,Bachelor,Life Sciences,Sales Representative,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1246,Male,Married,41,4,Master,Life Sciences,Sales Executive,2,Junior,Travel Frequently,Yes,Involuntary,Performance Termination,Company Initiated
+E1247,Male,Single,42,4,Master,Other,Research Scientist,2,Junior,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1248,Female,Divorced,45,3,Bachelor,Marketing,Sales Executive,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1249,Male,Married,29,4,Master,Technical Degree,Sales Representative,1,Entry,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E1250,Male,Single,31,1,Below College,Medical,Sales Manager,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1251,Male,Married,20,2,College,Marketing,Software Engineer,1,Entry,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1252,Male,Divorced,42,2,College,Medical,Sales Representative,2,Junior,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1253,Female,Single,44,2,College,Medical,Sales Representative,3,Mid,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E1254,Male,Single,31,4,Master,Life Sciences,Software Engineer,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1255,Male,Single,33,5,Doctor,Medical,Accountant,1,Entry,Travel Rarely,Yes,Voluntary,Lack of Career Growth,Growth
+E1256,Male,Single,35,3,Bachelor,Medical,Supply Chain Analyst,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1257,Female,Married,51,4,Master,Medical,Research Scientist,3,Mid,Travel Frequently,Yes,Voluntary,Work Life Imbalance,Work Environment
+E1258,Female,Married,45,4,Master,Other,IT Manager,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1259,Male,Single,47,1,Below College,Other,Software Engineer,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1260,Female,Divorced,36,2,College,Medical,Accountant,2,Junior,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1261,Male,Married,33,2,College,Medical,Software Engineer,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1262,Male,Divorced,47,4,Master,Medical,HR Executive,3,Mid,Travel Frequently,Yes,Voluntary,Relocation,Personal
+E1263,Male,Divorced,22,2,College,Medical,Laboratory Technician,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1264,Female,Married,42,3,Bachelor,Medical,Operations Executive,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1265,Female,Married,25,2,College,Life Sciences,Operations Executive,1,Entry,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1266,Male,Single,44,3,Bachelor,Life Sciences,Sales Executive,2,Junior,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1267,Male,Divorced,42,2,College,Marketing,HR Executive,2,Junior,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1268,Male,Divorced,29,2,College,Medical,Sales Executive,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1269,Male,Single,39,3,Bachelor,Medical,Software Engineer,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1270,Female,Divorced,27,4,Master,Medical,HR Executive,2,Junior,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1271,Female,Single,28,5,Doctor,Life Sciences,Sales Executive,1,Entry,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1272,Female,Married,33,2,College,Human Resources,Software Engineer,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1273,Male,Married,30,3,Bachelor,Life Sciences,IT Manager,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1274,Female,Single,46,2,College,Medical,Operations Manager,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1275,Female,Married,56,4,Master,Life Sciences,Research Director,5,Executive,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1276,Female,Married,37,2,College,Human Resources,Finance Manager,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1277,Female,Divorced,37,3,Bachelor,Other,Sales Representative,2,Junior,Travel Rarely,No,Voluntary,Better Compensation,Pay
+E1278,Female,Married,44,3,Bachelor,Medical,Sales Executive,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1279,Female,Divorced,34,1,Below College,Life Sciences,Research Director,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1280,Male,Single,41,5,Doctor,Other,Research Director,4,Senior,Travel Rarely,Yes,Voluntary,Better Compensation,Pay
+E1281,Female,Married,20,3,Bachelor,Other,Supply Chain Analyst,1,Entry,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1282,Male,Married,31,3,Bachelor,Technical Degree,Sales Representative,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1283,Male,Divorced,23,3,Bachelor,Life Sciences,Sales Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1284,Female,Married,20,1,Below College,Life Sciences,Operations Executive,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1285,Male,Married,45,3,Bachelor,Marketing,Data Analyst,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1286,Male,Single,34,3,Bachelor,Technical Degree,Data Analyst,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1287,Male,Married,51,4,Master,Life Sciences,Supply Chain Analyst,3,Mid,Non-Travel,Yes,Still Employed,Not Applicable,Not Applicable
+E1288,Female,Single,50,3,Bachelor,Medical,Software Engineer,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1289,Male,Married,36,3,Bachelor,Medical,HR Executive,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1290,Male,Married,33,4,Master,Medical,Operations Executive,2,Junior,Travel Rarely,No,Voluntary,Work Life Imbalance,Work Environment
+E1291,Male,Married,30,4,Master,Medical,Laboratory Technician,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1292,Female,Married,20,4,Master,Medical,Research Director,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1293,Female,Single,32,2,College,Medical,Data Analyst,2,Junior,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1294,Female,Divorced,34,3,Bachelor,Medical,Research Scientist,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1295,Female,Married,31,1,Below College,Life Sciences,Supply Chain Analyst,1,Entry,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1296,Female,Married,28,3,Bachelor,Medical,Laboratory Technician,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1297,Female,Married,36,1,Below College,Marketing,Sales Representative,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1298,Male,Married,34,3,Bachelor,Marketing,Sales Representative,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1299,Female,Single,38,3,Bachelor,Technical Degree,Talent Partner,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1300,Male,Single,28,3,Bachelor,Medical,Operations Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1301,Male,Single,54,1,Below College,Medical,Operations Executive,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1302,Female,Divorced,42,3,Bachelor,Life Sciences,Research Scientist,2,Junior,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E1303,Male,Divorced,35,4,Master,Medical,Sales Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1304,Male,Married,30,1,Below College,Medical,Talent Partner,3,Mid,Travel Rarely,Yes,Voluntary,Poor Manager Relationship,Management
+E1305,Male,Single,28,3,Bachelor,Technical Degree,Sales Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1306,Female,Married,44,3,Bachelor,Medical,Research Director,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1307,Female,Married,33,1,Below College,Medical,Finance Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1308,Female,Married,37,3,Bachelor,Life Sciences,Research Director,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1309,Female,Married,41,1,Below College,Life Sciences,Laboratory Technician,2,Junior,Travel Rarely,No,Voluntary,Job Role Mismatch,Growth
+E1310,Female,Married,32,4,Master,Life Sciences,Sales Executive,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1311,Male,Single,39,2,College,Life Sciences,Sales Representative,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1312,Male,Married,20,3,Bachelor,Life Sciences,Software Engineer,1,Entry,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1313,Female,Married,28,2,College,Medical,HR Executive,1,Entry,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1314,Female,Divorced,20,3,Bachelor,Life Sciences,Software Engineer,1,Entry,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1315,Female,Single,33,2,College,Life Sciences,Software Engineer,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1316,Male,Married,33,5,Doctor,Life Sciences,Sales Manager,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1317,Female,Single,53,2,College,Medical,Research Director,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1318,Female,Married,30,3,Bachelor,Medical,HR Executive,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1319,Male,Married,38,3,Bachelor,Technical Degree,Sales Executive,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1320,Male,Married,40,3,Bachelor,Life Sciences,Sales Executive,3,Mid,Travel Rarely,No,Voluntary,Job Role Mismatch,Growth
+E1321,Male,Divorced,49,4,Master,Life Sciences,Software Engineer,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1322,Female,Single,41,2,College,Marketing,Data Analyst,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1323,Male,Married,43,1,Below College,Human Resources,Laboratory Technician,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1324,Male,Divorced,53,5,Doctor,Life Sciences,Operations Manager,5,Executive,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1325,Female,Married,22,1,Below College,Life Sciences,Talent Partner,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1326,Female,Married,31,4,Master,Medical,Supply Chain Analyst,1,Entry,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1327,Male,Married,33,3,Bachelor,Life Sciences,Research Scientist,3,Mid,Travel Rarely,Yes,Voluntary,Work Life Imbalance,Work Environment
+E1328,Male,Married,36,4,Master,Medical,Research Scientist,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1329,Female,Married,31,2,College,Other,Software Engineer,2,Junior,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1330,Male,Single,46,4,Master,Marketing,Software Engineer,3,Mid,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E1331,Female,Married,31,4,Master,Life Sciences,Research Scientist,2,Junior,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1332,Male,Married,31,3,Bachelor,Life Sciences,Data Analyst,1,Entry,Travel Frequently,No,Voluntary,Health or Personal,Personal
+E1333,Male,Married,41,2,College,Medical,Laboratory Technician,3,Mid,Travel Rarely,Yes,Voluntary,Work Life Imbalance,Work Environment
+E1334,Male,Divorced,30,2,College,Medical,Supply Chain Analyst,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1335,Male,Married,27,1,Below College,Life Sciences,Supply Chain Analyst,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1336,Female,Married,25,2,College,Marketing,Research Scientist,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1337,Female,Married,35,4,Master,Life Sciences,Software Engineer,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1338,Male,Married,46,3,Bachelor,Life Sciences,Laboratory Technician,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1339,Male,Single,44,3,Bachelor,Human Resources,Data Analyst,2,Junior,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1340,Female,Divorced,41,3,Bachelor,Life Sciences,Data Analyst,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1341,Female,Single,38,1,Below College,Medical,IT Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1342,Male,Married,32,4,Master,Medical,Software Engineer,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1343,Female,Divorced,36,3,Bachelor,Other,Sales Representative,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1344,Male,Single,26,3,Bachelor,Marketing,Supply Chain Analyst,2,Junior,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1345,Male,Single,38,3,Bachelor,Life Sciences,Operations Executive,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1346,Male,Divorced,46,4,Master,Life Sciences,Talent Partner,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1347,Female,Single,22,2,College,Medical,HR Manager,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1348,Female,Married,48,3,Bachelor,Marketing,Sales Executive,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1349,Male,Divorced,20,3,Bachelor,Marketing,Sales Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1350,Male,Single,30,1,Below College,Medical,Operations Manager,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1351,Male,Single,27,4,Master,Medical,Sales Representative,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1352,Male,Single,30,4,Master,Technical Degree,Supply Chain Analyst,2,Junior,Travel Rarely,No,Voluntary,Health or Personal,Personal
+E1353,Female,Single,33,4,Master,Life Sciences,Sales Executive,2,Junior,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1354,Male,Single,48,1,Below College,Life Sciences,Research Scientist,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1355,Male,Married,27,3,Bachelor,Other,Sales Executive,1,Entry,Travel Frequently,No,Involuntary,Performance Termination,Company Initiated
+E1356,Male,Married,28,1,Below College,Technical Degree,Supply Chain Analyst,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1357,Female,Divorced,30,1,Below College,Life Sciences,Research Scientist,2,Junior,Travel Rarely,Yes,Voluntary,Poor Manager Relationship,Management
+E1358,Male,Divorced,32,1,Below College,Marketing,Research Scientist,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1359,Female,Single,31,3,Bachelor,Life Sciences,Laboratory Technician,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1360,Male,Married,24,4,Master,Life Sciences,HR Executive,2,Junior,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1361,Male,Single,39,3,Bachelor,Medical,Operations Manager,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1362,Male,Married,35,3,Bachelor,Life Sciences,Sales Manager,3,Mid,Travel Rarely,Yes,Voluntary,Organisational Culture,Work Environment
+E1363,Male,Married,45,3,Bachelor,Other,Operations Manager,4,Senior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1364,Male,Married,48,4,Master,Life Sciences,Supply Chain Analyst,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1365,Male,Single,22,2,College,Medical,IT Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1366,Male,Divorced,51,3,Bachelor,Life Sciences,Research Director,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1367,Female,Married,41,4,Master,Life Sciences,Data Analyst,1,Entry,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1368,Female,Single,48,3,Bachelor,Life Sciences,Sales Executive,3,Mid,Travel Rarely,No,Voluntary,Better Compensation,Pay
+E1369,Male,Married,36,3,Bachelor,Life Sciences,Software Engineer,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1370,Female,Divorced,42,2,College,Other,Sales Executive,2,Junior,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1371,Male,Married,42,3,Bachelor,Life Sciences,Research Scientist,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1372,Female,Married,49,4,Master,Other,Sales Representative,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1373,Male,Divorced,31,1,Below College,Life Sciences,Software Engineer,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1374,Male,Single,31,1,Below College,Medical,Research Director,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1375,Female,Divorced,34,4,Master,Life Sciences,IT Manager,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1376,Male,Divorced,49,4,Master,Other,Sales Manager,3,Mid,Travel Rarely,No,Voluntary,Poor Manager Relationship,Management
+E1377,Female,Single,50,2,College,Other,Software Engineer,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1378,Female,Single,27,4,Master,Life Sciences,Research Scientist,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1379,Female,Married,41,2,College,Human Resources,Sales Representative,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1380,Female,Divorced,36,2,College,Medical,Operations Executive,3,Mid,Travel Rarely,Yes,Voluntary,Better Compensation,Pay
+E1381,Female,Single,34,4,Master,Life Sciences,Sales Executive,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1382,Male,Married,41,4,Master,Medical,HR Executive,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1383,Female,Divorced,53,3,Bachelor,Life Sciences,Laboratory Technician,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1384,Female,Divorced,42,4,Master,Life Sciences,Sales Representative,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1385,Male,Married,33,3,Bachelor,Life Sciences,Research Director,3,Mid,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E1386,Male,Married,31,3,Bachelor,Life Sciences,Research Scientist,2,Junior,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1387,Male,Single,41,4,Master,Life Sciences,Sales Manager,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1388,Male,Divorced,39,2,College,Marketing,Software Engineer,2,Junior,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1389,Male,Married,47,5,Doctor,Life Sciences,Accountant,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1390,Male,Divorced,49,3,Bachelor,Marketing,Sales Manager,4,Senior,Travel Frequently,Yes,Still Employed,Not Applicable,Not Applicable
+E1391,Male,Married,39,4,Master,Life Sciences,Operations Manager,4,Senior,Non-Travel,Yes,Still Employed,Not Applicable,Not Applicable
+E1392,Female,Married,42,4,Master,Life Sciences,Research Scientist,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1393,Male,Single,52,3,Bachelor,Medical,Finance Manager,3,Mid,Travel Frequently,No,Voluntary,Poor Manager Relationship,Management
+E1394,Male,Married,49,1,Below College,Other,Research Director,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1395,Female,Married,29,4,Master,Life Sciences,Finance Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1396,Male,Divorced,24,3,Bachelor,Other,Supply Chain Analyst,1,Entry,Travel Rarely,No,Voluntary,Job Role Mismatch,Growth
+E1397,Male,Married,25,1,Below College,Technical Degree,Research Director,3,Mid,Travel Frequently,Yes,Involuntary,Performance Termination,Company Initiated
+E1398,Female,Divorced,21,2,College,Medical,Software Engineer,1,Entry,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E1399,Male,Single,40,4,Master,Medical,Finance Manager,3,Mid,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E1400,Female,Divorced,26,5,Doctor,Life Sciences,Accountant,3,Mid,Non-Travel,Yes,Still Employed,Not Applicable,Not Applicable
+E1401,Female,Single,43,2,College,Life Sciences,Sales Executive,1,Entry,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1402,Male,Married,30,4,Master,Life Sciences,Sales Executive,1,Entry,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1403,Female,Married,46,2,College,Life Sciences,Research Director,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1404,Female,Divorced,43,4,Master,Life Sciences,Sales Representative,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1405,Male,Single,38,3,Bachelor,Technical Degree,Sales Representative,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1406,Female,Married,41,4,Master,Life Sciences,Supply Chain Analyst,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1407,Male,Married,25,2,College,Technical Degree,Research Scientist,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1408,Female,Divorced,20,4,Master,Life Sciences,Operations Executive,1,Entry,Travel Frequently,Yes,Still Employed,Not Applicable,Not Applicable
+E1409,Female,Married,32,3,Bachelor,Medical,Sales Representative,3,Mid,Travel Frequently,No,Voluntary,Organisational Culture,Work Environment
+E1410,Male,Single,41,2,College,Medical,Operations Manager,3,Mid,Travel Rarely,Yes,Voluntary,Work Life Imbalance,Work Environment
+E1411,Female,Single,25,3,Bachelor,Marketing,Sales Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1412,Male,Married,43,5,Doctor,Medical,Software Engineer,2,Junior,Travel Rarely,Yes,Involuntary,Performance Termination,Company Initiated
+E1413,Male,Single,42,3,Bachelor,Medical,Software Engineer,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1414,Female,Divorced,38,4,Master,Life Sciences,Supply Chain Analyst,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1415,Female,Married,39,3,Bachelor,Marketing,Research Director,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1416,Male,Married,36,1,Below College,Medical,Sales Executive,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1417,Female,Single,38,3,Bachelor,Medical,Supply Chain Analyst,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1418,Male,Divorced,25,4,Master,Medical,Finance Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1419,Female,Married,46,3,Bachelor,Other,Sales Representative,3,Mid,Travel Frequently,Yes,Still Employed,Not Applicable,Not Applicable
+E1420,Female,Single,40,4,Master,Life Sciences,Accountant,1,Entry,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1421,Female,Divorced,41,3,Bachelor,Life Sciences,Sales Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1422,Male,Married,30,4,Master,Life Sciences,Research Scientist,1,Entry,Travel Frequently,Yes,Still Employed,Not Applicable,Not Applicable
+E1423,Female,Single,23,4,Master,Life Sciences,Financial Analyst,1,Entry,Travel Rarely,No,Voluntary,Poor Manager Relationship,Management
+E1424,Male,Single,48,2,College,Life Sciences,Data Analyst,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1425,Male,Married,23,2,College,Life Sciences,Laboratory Technician,1,Entry,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1426,Male,Single,34,3,Bachelor,Marketing,Sales Representative,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1427,Male,Married,36,4,Master,Life Sciences,Laboratory Technician,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1428,Female,Married,39,2,College,Medical,Sales Executive,3,Mid,Travel Frequently,Yes,Still Employed,Not Applicable,Not Applicable
+E1429,Female,Single,39,4,Master,Human Resources,Data Analyst,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1430,Male,Divorced,36,4,Master,Medical,Data Analyst,1,Entry,Travel Frequently,Yes,Still Employed,Not Applicable,Not Applicable
+E1431,Female,Married,24,4,Master,Technical Degree,Accountant,2,Junior,Travel Frequently,Yes,Still Employed,Not Applicable,Not Applicable
+E1432,Male,Married,34,4,Master,Medical,Sales Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1433,Female,Married,36,5,Doctor,Medical,Sales Executive,3,Mid,Travel Rarely,Yes,Voluntary,Organisational Culture,Work Environment
+E1434,Male,Married,41,2,College,Life Sciences,IT Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1435,Male,Married,39,4,Master,Technical Degree,Sales Executive,2,Junior,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1436,Male,Single,47,3,Bachelor,Medical,Sales Representative,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1437,Male,Married,44,5,Doctor,Marketing,Supply Chain Analyst,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1438,Male,Single,25,1,Below College,Life Sciences,Research Scientist,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1439,Male,Married,37,4,Master,Life Sciences,Laboratory Technician,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1440,Male,Single,41,2,College,Other,Research Scientist,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1441,Male,Married,32,2,College,Other,Supply Chain Analyst,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1442,Male,Married,50,5,Doctor,Medical,Research Director,4,Senior,Travel Frequently,Yes,Still Employed,Not Applicable,Not Applicable
+E1443,Male,Divorced,32,1,Below College,Other,Software Engineer,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1444,Female,Married,25,3,Bachelor,Medical,Research Director,3,Mid,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E1445,Male,Married,21,4,Master,Other,Laboratory Technician,1,Entry,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1446,Male,Married,32,2,College,Technical Degree,Sales Manager,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1447,Female,Divorced,32,2,College,Other,Supply Chain Analyst,1,Entry,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1448,Female,Divorced,33,3,Bachelor,Medical,Sales Representative,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1449,Male,Married,20,3,Bachelor,Other,Financial Analyst,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1450,Female,Divorced,37,3,Bachelor,Life Sciences,Financial Analyst,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1451,Female,Single,47,2,College,Technical Degree,Data Analyst,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1452,Female,Single,31,3,Bachelor,Medical,Sales Representative,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1453,Female,Divorced,42,3,Bachelor,Human Resources,Sales Representative,1,Entry,Travel Rarely,No,Voluntary,Work Life Imbalance,Work Environment
+E1454,Female,Divorced,31,4,Master,Marketing,Supply Chain Analyst,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1455,Male,Married,29,4,Master,Life Sciences,Research Scientist,3,Mid,Travel Rarely,Yes,Voluntary,Job Role Mismatch,Growth
+E1456,Female,Single,49,4,Master,Marketing,Sales Executive,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1457,Male,Married,43,3,Bachelor,Medical,IT Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1458,Male,Married,45,4,Master,Life Sciences,Supply Chain Analyst,3,Mid,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E1459,Male,Single,58,3,Bachelor,Other,Sales Representative,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1460,Male,Single,37,4,Master,Other,Sales Representative,3,Mid,Travel Frequently,Yes,Voluntary,Better Compensation,Pay
+E1461,Male,Single,37,3,Bachelor,Life Sciences,Data Analyst,3,Mid,Travel Frequently,Yes,Still Employed,Not Applicable,Not Applicable
+E1462,Female,Divorced,38,3,Bachelor,Life Sciences,Financial Analyst,3,Mid,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E1463,Male,Single,50,2,College,Life Sciences,Data Analyst,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1464,Male,Single,46,2,College,Marketing,HR Executive,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1465,Female,Single,29,3,Bachelor,Life Sciences,Sales Representative,2,Junior,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E1466,Female,Married,30,3,Bachelor,Medical,Sales Executive,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1467,Male,Married,40,3,Bachelor,Life Sciences,Research Director,3,Mid,Travel Rarely,Yes,Voluntary,Poor Manager Relationship,Management
+E1468,Female,Married,42,4,Master,Life Sciences,Operations Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1469,Female,Married,41,5,Doctor,Other,Sales Representative,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1470,Female,Married,42,3,Bachelor,Medical,Laboratory Technician,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1471,Male,Married,35,2,College,Technical Degree,Laboratory Technician,2,Junior,Travel Frequently,No,Voluntary,Poor Manager Relationship,Management
+E1472,Female,Married,43,3,Bachelor,Medical,Supply Chain Analyst,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1473,Male,Married,43,2,College,Other,Sales Executive,2,Junior,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1474,Female,Single,29,4,Master,Life Sciences,Data Analyst,2,Junior,Travel Frequently,Yes,Involuntary,Performance Termination,Company Initiated
+E1475,Male,Single,26,2,College,Life Sciences,Research Director,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1476,Male,Single,39,3,Bachelor,Technical Degree,Data Analyst,2,Junior,Travel Rarely,No,Voluntary,Work Life Imbalance,Work Environment
+E1477,Female,Divorced,33,3,Bachelor,Life Sciences,Data Analyst,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1478,Female,Divorced,24,3,Bachelor,Life Sciences,Software Engineer,1,Entry,Non-Travel,Yes,Still Employed,Not Applicable,Not Applicable
+E1479,Male,Single,44,4,Master,Medical,Sales Manager,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1480,Male,Divorced,41,2,College,Medical,Data Analyst,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1481,Male,Single,50,3,Bachelor,Life Sciences,Sales Executive,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1482,Male,Single,37,3,Bachelor,Marketing,Research Director,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1483,Male,Single,38,4,Master,Technical Degree,Sales Representative,2,Junior,Non-Travel,Yes,Voluntary,Poor Manager Relationship,Management
+E1484,Female,Single,24,3,Bachelor,Life Sciences,Research Director,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1485,Male,Single,50,5,Doctor,Technical Degree,Sales Representative,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1486,Female,Single,43,2,College,Technical Degree,IT Manager,5,Executive,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E1487,Male,Divorced,45,1,Below College,Marketing,Sales Representative,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1488,Female,Divorced,35,3,Bachelor,Marketing,Research Director,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1489,Female,Married,36,2,College,Life Sciences,IT Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1490,Female,Married,40,2,College,Other,Sales Executive,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1491,Male,Married,30,4,Master,Other,Accountant,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1492,Male,Single,30,2,College,Medical,Talent Partner,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1493,Female,Married,55,3,Bachelor,Medical,Operations Executive,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1494,Male,Married,40,2,College,Technical Degree,Operations Manager,4,Senior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1495,Male,Married,31,3,Bachelor,Technical Degree,Software Engineer,2,Junior,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E1496,Male,Married,24,1,Below College,Marketing,Supply Chain Analyst,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1497,Female,Married,26,4,Master,Life Sciences,Financial Analyst,3,Mid,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E1498,Male,Single,40,4,Master,Life Sciences,Research Director,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1499,Male,Married,28,3,Bachelor,Other,Sales Representative,1,Entry,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1500,Male,Married,27,3,Bachelor,Life Sciences,Sales Executive,1,Entry,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1501,Male,Divorced,35,5,Doctor,Life Sciences,IT Manager,3,Mid,Travel Rarely,Yes,Voluntary,Lack of Career Growth,Growth
+E1502,Female,Divorced,40,1,Below College,Medical,Research Scientist,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1503,Female,Married,48,3,Bachelor,Medical,IT Manager,4,Senior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1504,Female,Married,29,2,College,Technical Degree,Research Director,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1505,Female,Single,31,2,College,Life Sciences,Sales Executive,2,Junior,Travel Rarely,Yes,Voluntary,Work Life Imbalance,Work Environment
+E1506,Female,Married,40,3,Bachelor,Technical Degree,Laboratory Technician,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1507,Female,Single,32,2,College,Technical Degree,Research Scientist,2,Junior,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1508,Male,Married,44,1,Below College,Life Sciences,Sales Manager,4,Senior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1509,Female,Single,33,4,Master,Medical,Research Scientist,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1510,Female,Divorced,25,3,Bachelor,Other,Supply Chain Analyst,1,Entry,Travel Rarely,No,Voluntary,Work Life Imbalance,Work Environment
+E1511,Female,Married,30,3,Bachelor,Medical,Research Director,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1512,Male,Single,23,5,Doctor,Life Sciences,Laboratory Technician,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1513,Female,Divorced,32,4,Master,Medical,IT Manager,3,Mid,Travel Frequently,Yes,Still Employed,Not Applicable,Not Applicable
+E1514,Female,Married,41,2,College,Technical Degree,Sales Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1515,Male,Married,37,3,Bachelor,Life Sciences,HR Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1516,Female,Married,36,3,Bachelor,Medical,Data Analyst,3,Mid,Travel Frequently,No,Involuntary,Performance Termination,Company Initiated
+E1517,Male,Single,25,4,Master,Technical Degree,Laboratory Technician,2,Junior,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1518,Male,Single,30,4,Master,Marketing,Financial Analyst,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1519,Female,Married,33,3,Bachelor,Life Sciences,HR Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1520,Male,Divorced,39,4,Master,Life Sciences,Sales Representative,3,Mid,Travel Frequently,Yes,Voluntary,Work Life Imbalance,Work Environment
+E1521,Male,Single,60,3,Bachelor,Medical,Operations Manager,4,Senior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1522,Male,Married,31,3,Bachelor,Medical,Software Engineer,2,Junior,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1523,Female,Single,45,3,Bachelor,Life Sciences,Data Analyst,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1524,Male,Divorced,26,2,College,Medical,Accountant,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1525,Female,Single,27,3,Bachelor,Life Sciences,Research Director,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1526,Male,Married,20,3,Bachelor,Life Sciences,Operations Manager,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1527,Male,Married,30,2,College,Life Sciences,Data Analyst,2,Junior,Travel Frequently,No,Voluntary,Poor Manager Relationship,Management
+E1528,Male,Single,46,5,Doctor,Medical,Software Engineer,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1529,Female,Divorced,37,1,Below College,Life Sciences,Laboratory Technician,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1530,Male,Single,48,2,College,Marketing,Data Analyst,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1531,Male,Single,32,1,Below College,Life Sciences,Operations Executive,3,Mid,Travel Frequently,No,Involuntary,Performance Termination,Company Initiated
+E1532,Female,Married,46,5,Doctor,Life Sciences,IT Manager,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1533,Female,Single,32,4,Master,Other,Sales Representative,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1534,Male,Married,45,2,College,Marketing,Software Engineer,3,Mid,Travel Frequently,Yes,Still Employed,Not Applicable,Not Applicable
+E1535,Female,Divorced,51,3,Bachelor,Medical,Operations Executive,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1536,Male,Single,35,3,Bachelor,Medical,Sales Executive,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1537,Female,Married,25,4,Master,Life Sciences,HR Manager,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1538,Male,Married,53,2,College,Medical,Sales Executive,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1539,Male,Single,29,3,Bachelor,Marketing,Operations Executive,2,Junior,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1540,Female,Married,32,3,Bachelor,Life Sciences,Accountant,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1541,Male,Married,34,3,Bachelor,Medical,Financial Analyst,1,Entry,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1542,Male,Single,45,3,Bachelor,Marketing,Data Analyst,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1543,Female,Single,43,4,Master,Life Sciences,Operations Executive,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1544,Male,Married,43,4,Master,Marketing,Sales Executive,3,Mid,Non-Travel,No,Voluntary,Better Compensation,Pay
+E1545,Female,Divorced,34,3,Bachelor,Life Sciences,Operations Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1546,Male,Married,35,2,College,Life Sciences,HR Executive,3,Mid,Travel Frequently,Yes,Still Employed,Not Applicable,Not Applicable
+E1547,Male,Single,44,2,College,Life Sciences,Sales Manager,4,Senior,Travel Frequently,Yes,Still Employed,Not Applicable,Not Applicable
+E1548,Male,Married,52,3,Bachelor,Other,Research Scientist,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1549,Female,Divorced,26,3,Bachelor,Life Sciences,HR Manager,3,Mid,Travel Frequently,Yes,Voluntary,Organisational Culture,Work Environment
+E1550,Male,Divorced,48,4,Master,Medical,Data Analyst,3,Mid,Non-Travel,Yes,Still Employed,Not Applicable,Not Applicable
+E1551,Female,Divorced,45,3,Bachelor,Technical Degree,IT Manager,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1552,Female,Single,43,3,Bachelor,Technical Degree,Sales Executive,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1553,Female,Married,31,4,Master,Technical Degree,Research Director,3,Mid,Travel Rarely,No,Voluntary,Relocation,Personal
+E1554,Male,Married,38,3,Bachelor,Life Sciences,Data Analyst,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1555,Male,Single,40,3,Bachelor,Medical,Accountant,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1556,Male,Single,31,2,College,Technical Degree,IT Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1557,Female,Married,48,3,Bachelor,Medical,Accountant,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1558,Male,Single,33,1,Below College,Medical,Sales Representative,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1559,Female,Divorced,51,5,Doctor,Marketing,HR Manager,3,Mid,Travel Frequently,Yes,Still Employed,Not Applicable,Not Applicable
+E1560,Male,Married,23,3,Bachelor,Life Sciences,HR Executive,1,Entry,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1561,Male,Single,25,3,Bachelor,Medical,Software Engineer,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1562,Male,Married,20,3,Bachelor,Marketing,Research Scientist,2,Junior,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1563,Female,Married,43,2,College,Medical,Sales Manager,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1564,Male,Single,29,3,Bachelor,Technical Degree,Operations Executive,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1565,Female,Single,30,5,Doctor,Medical,Research Scientist,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1566,Female,Married,45,3,Bachelor,Medical,Laboratory Technician,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1567,Male,Single,53,3,Bachelor,Medical,Software Engineer,3,Mid,Travel Frequently,Yes,Still Employed,Not Applicable,Not Applicable
+E1568,Female,Single,30,1,Below College,Other,Operations Executive,1,Entry,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1569,Male,Divorced,49,2,College,Life Sciences,Operations Executive,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1570,Male,Married,42,1,Below College,Medical,Software Engineer,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1571,Female,Divorced,37,2,College,Marketing,Operations Executive,3,Mid,Travel Rarely,Yes,Voluntary,Better Compensation,Pay
+E1572,Male,Married,26,3,Bachelor,Technical Degree,IT Manager,3,Mid,Non-Travel,Yes,Still Employed,Not Applicable,Not Applicable
+E1573,Female,Single,24,4,Master,Technical Degree,Finance Manager,3,Mid,Travel Frequently,Yes,Still Employed,Not Applicable,Not Applicable
+E1574,Female,Married,37,4,Master,Life Sciences,Finance Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1575,Female,Married,38,3,Bachelor,Marketing,Research Director,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1576,Male,Single,31,3,Bachelor,Life Sciences,Sales Manager,3,Mid,Travel Rarely,No,Voluntary,Organisational Culture,Work Environment
+E1577,Female,Married,28,2,College,Marketing,Talent Partner,2,Junior,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1578,Female,Married,25,5,Doctor,Medical,Sales Representative,1,Entry,Travel Rarely,No,Voluntary,Organisational Culture,Work Environment
+E1579,Female,Divorced,40,3,Bachelor,Technical Degree,Sales Manager,3,Mid,Travel Rarely,No,Voluntary,Poor Manager Relationship,Management
+E1580,Female,Divorced,43,2,College,Life Sciences,Operations Executive,3,Mid,Travel Rarely,Yes,Voluntary,Relocation,Personal
+E1581,Female,Single,43,2,College,Medical,Supply Chain Analyst,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1582,Male,Single,42,4,Master,Technical Degree,Sales Representative,2,Junior,Non-Travel,Yes,Voluntary,Work Life Imbalance,Work Environment
+E1583,Male,Married,32,3,Bachelor,Life Sciences,Sales Representative,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1584,Male,Single,51,2,College,Technical Degree,Finance Manager,4,Senior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1585,Male,Divorced,28,3,Bachelor,Life Sciences,Laboratory Technician,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1586,Male,Divorced,42,2,College,Other,Financial Analyst,2,Junior,Travel Rarely,Yes,Voluntary,Work Life Imbalance,Work Environment
+E1587,Male,Married,33,4,Master,Technical Degree,Sales Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1588,Male,Single,27,2,College,Technical Degree,IT Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1589,Male,Married,31,3,Bachelor,Life Sciences,Sales Representative,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1590,Female,Divorced,42,4,Master,Life Sciences,Research Director,3,Mid,Non-Travel,Yes,Still Employed,Not Applicable,Not Applicable
+E1591,Male,Married,47,2,College,Marketing,Laboratory Technician,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1592,Male,Married,40,4,Master,Life Sciences,Accountant,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1593,Male,Married,20,4,Master,Human Resources,Data Analyst,1,Entry,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1594,Female,Single,44,3,Bachelor,Other,Sales Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1595,Female,Married,20,3,Bachelor,Life Sciences,Sales Manager,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1596,Female,Married,54,2,College,Marketing,Sales Representative,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1597,Male,Divorced,39,2,College,Other,Operations Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1598,Male,Married,38,3,Bachelor,Life Sciences,Research Scientist,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1599,Female,Single,46,3,Bachelor,Life Sciences,Data Analyst,3,Mid,Travel Rarely,No,Voluntary,Lack of Career Growth,Growth
+E1600,Male,Married,34,2,College,Marketing,Sales Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1601,Male,Married,35,4,Master,Marketing,HR Manager,3,Mid,Travel Rarely,No,Voluntary,Organisational Culture,Work Environment
+E1602,Male,Divorced,33,4,Master,Marketing,Operations Manager,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1603,Male,Married,38,2,College,Medical,Talent Partner,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1604,Male,Divorced,38,4,Master,Life Sciences,Research Scientist,2,Junior,Non-Travel,Yes,Still Employed,Not Applicable,Not Applicable
+E1605,Female,Single,39,1,Below College,Other,Software Engineer,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1606,Female,Married,20,1,Below College,Life Sciences,Talent Partner,1,Entry,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1607,Female,Married,36,3,Bachelor,Medical,Data Analyst,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1608,Female,Single,23,4,Master,Medical,Sales Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1609,Male,Divorced,60,3,Bachelor,Marketing,Financial Analyst,3,Mid,Non-Travel,No,Involuntary,Performance Termination,Company Initiated
+E1610,Female,Single,44,3,Bachelor,Other,Finance Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1611,Female,Divorced,45,4,Master,Marketing,Data Analyst,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1612,Female,Married,41,3,Bachelor,Human Resources,Sales Representative,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1613,Female,Divorced,43,5,Doctor,Marketing,IT Manager,3,Mid,Travel Rarely,Yes,Voluntary,Job Role Mismatch,Growth
+E1614,Male,Married,29,1,Below College,Life Sciences,Supply Chain Analyst,1,Entry,Travel Frequently,Yes,Still Employed,Not Applicable,Not Applicable
+E1615,Female,Married,44,4,Master,Life Sciences,IT Manager,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1616,Male,Married,45,3,Bachelor,Other,Finance Manager,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1617,Male,Single,39,3,Bachelor,Marketing,Research Director,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1618,Male,Single,44,4,Master,Life Sciences,Operations Executive,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1619,Male,Married,47,5,Doctor,Medical,Research Director,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1620,Male,Married,37,2,College,Technical Degree,Sales Executive,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1621,Female,Married,27,1,Below College,Medical,Supply Chain Analyst,1,Entry,Travel Frequently,Yes,Still Employed,Not Applicable,Not Applicable
+E1622,Female,Married,44,4,Master,Life Sciences,IT Manager,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1623,Female,Married,51,2,College,Technical Degree,Software Engineer,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1624,Female,Single,26,3,Bachelor,Life Sciences,Research Director,3,Mid,Travel Frequently,Yes,Still Employed,Not Applicable,Not Applicable
+E1625,Female,Married,47,2,College,Medical,Operations Executive,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1626,Female,Single,39,1,Below College,Life Sciences,Operations Manager,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1627,Female,Married,43,1,Below College,Life Sciences,Laboratory Technician,3,Mid,Travel Frequently,Yes,Still Employed,Not Applicable,Not Applicable
+E1628,Male,Married,45,1,Below College,Technical Degree,Operations Manager,4,Senior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1629,Male,Single,27,1,Below College,Marketing,IT Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1630,Male,Divorced,40,2,College,Technical Degree,Research Scientist,2,Junior,Travel Rarely,Yes,Voluntary,Job Role Mismatch,Growth
+E1631,Female,Divorced,46,3,Bachelor,Life Sciences,Laboratory Technician,3,Mid,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E1632,Female,Married,50,3,Bachelor,Medical,Accountant,3,Mid,Travel Frequently,No,Voluntary,Higher Studies,Personal
+E1633,Female,Married,45,1,Below College,Life Sciences,IT Manager,3,Mid,Travel Frequently,No,Voluntary,Better Compensation,Pay
+E1634,Male,Single,29,4,Master,Life Sciences,Financial Analyst,2,Junior,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1635,Female,Single,39,5,Doctor,Medical,Data Analyst,1,Entry,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1636,Female,Married,35,4,Master,Life Sciences,IT Manager,3,Mid,Travel Rarely,Yes,Involuntary,Performance Termination,Company Initiated
+E1637,Male,Single,38,2,College,Life Sciences,Operations Executive,2,Junior,Travel Rarely,Yes,Voluntary,Work Life Imbalance,Work Environment
+E1638,Female,Divorced,47,2,College,Medical,Supply Chain Analyst,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1639,Female,Single,24,3,Bachelor,Medical,Sales Executive,1,Entry,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E1640,Female,Married,42,4,Master,Marketing,Laboratory Technician,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1641,Female,Single,41,3,Bachelor,Medical,Software Engineer,2,Junior,Non-Travel,Yes,Still Employed,Not Applicable,Not Applicable
+E1642,Male,Divorced,28,3,Bachelor,Medical,Research Director,3,Mid,Travel Rarely,Yes,Voluntary,Job Role Mismatch,Growth
+E1643,Female,Single,47,4,Master,Medical,Sales Executive,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1644,Male,Married,32,4,Master,Human Resources,Sales Executive,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1645,Male,Single,37,4,Master,Marketing,Sales Representative,3,Mid,Travel Rarely,No,Voluntary,Work Life Imbalance,Work Environment
+E1646,Female,Married,20,3,Bachelor,Other,Finance Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1647,Male,Married,47,2,College,Technical Degree,Software Engineer,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1648,Male,Single,34,4,Master,Medical,Laboratory Technician,1,Entry,Travel Rarely,Yes,Voluntary,Lack of Career Growth,Growth
+E1649,Female,Single,34,1,Below College,Medical,Operations Manager,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1650,Male,Married,50,2,College,Life Sciences,Sales Executive,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1651,Male,Married,20,1,Below College,Life Sciences,IT Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1652,Male,Married,45,1,Below College,Life Sciences,Data Analyst,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1653,Female,Married,47,4,Master,Medical,Talent Partner,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1654,Female,Married,20,4,Master,Life Sciences,Laboratory Technician,1,Entry,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1655,Male,Divorced,39,2,College,Medical,IT Manager,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1656,Male,Married,34,2,College,Life Sciences,Sales Representative,2,Junior,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1657,Female,Married,28,3,Bachelor,Life Sciences,Software Engineer,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1658,Female,Married,25,1,Below College,Life Sciences,Data Analyst,2,Junior,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1659,Female,Married,44,2,College,Technical Degree,IT Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1660,Female,Married,48,1,Below College,Life Sciences,Software Engineer,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1661,Male,Married,27,2,College,Human Resources,HR Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1662,Male,Single,28,2,College,Human Resources,Operations Executive,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1663,Male,Divorced,44,4,Master,Life Sciences,Talent Partner,1,Entry,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E1664,Male,Married,59,2,College,Medical,Research Director,5,Executive,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1665,Female,Single,23,2,College,Medical,Software Engineer,1,Entry,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1666,Male,Divorced,24,3,Bachelor,Life Sciences,Sales Representative,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1667,Female,Married,27,3,Bachelor,Medical,Sales Representative,2,Junior,Travel Frequently,Yes,Still Employed,Not Applicable,Not Applicable
+E1668,Female,Divorced,27,3,Bachelor,Other,Software Engineer,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1669,Male,Single,48,3,Bachelor,Medical,Software Engineer,2,Junior,Travel Frequently,Yes,Still Employed,Not Applicable,Not Applicable
+E1670,Male,Married,28,2,College,Other,Research Scientist,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1671,Female,Single,58,2,College,Life Sciences,Software Engineer,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1672,Female,Married,41,3,Bachelor,Other,Data Analyst,2,Junior,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1673,Male,Single,46,4,Master,Technical Degree,Supply Chain Analyst,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1674,Male,Single,43,2,College,Other,Finance Manager,5,Executive,Travel Frequently,Yes,Still Employed,Not Applicable,Not Applicable
+E1675,Female,Married,28,5,Doctor,Life Sciences,Research Director,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1676,Male,Single,24,5,Doctor,Medical,Sales Representative,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1677,Male,Married,46,1,Below College,Medical,Research Scientist,2,Junior,Travel Rarely,Yes,Voluntary,Work Life Imbalance,Work Environment
+E1678,Female,Married,48,3,Bachelor,Human Resources,Laboratory Technician,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1679,Male,Divorced,41,5,Doctor,Technical Degree,Sales Manager,3,Mid,Travel Rarely,Yes,Voluntary,Work Life Imbalance,Work Environment
+E1680,Female,Married,37,3,Bachelor,Medical,Sales Representative,2,Junior,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E1681,Male,Single,38,4,Master,Human Resources,Research Scientist,2,Junior,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1682,Female,Single,39,2,College,Technical Degree,Laboratory Technician,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1683,Female,Divorced,25,2,College,Life Sciences,Supply Chain Analyst,1,Entry,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1684,Female,Married,38,4,Master,Technical Degree,Financial Analyst,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1685,Female,Married,37,3,Bachelor,Life Sciences,HR Manager,3,Mid,Travel Rarely,No,Voluntary,Poor Manager Relationship,Management
+E1686,Female,Married,21,3,Bachelor,Medical,Supply Chain Analyst,1,Entry,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1687,Female,Married,20,2,College,Marketing,Software Engineer,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1688,Female,Divorced,35,1,Below College,Marketing,Research Scientist,2,Junior,Travel Frequently,Yes,Still Employed,Not Applicable,Not Applicable
+E1689,Female,Divorced,20,4,Master,Technical Degree,Accountant,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1690,Female,Divorced,20,3,Bachelor,Technical Degree,IT Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1691,Female,Married,21,2,College,Other,Sales Executive,1,Entry,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E1692,Male,Single,39,4,Master,Medical,Accountant,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1693,Female,Married,37,1,Below College,Marketing,Operations Manager,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1694,Male,Married,38,4,Master,Other,Laboratory Technician,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1695,Male,Married,53,3,Bachelor,Life Sciences,Operations Executive,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1696,Male,Married,42,4,Master,Life Sciences,Software Engineer,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1697,Male,Single,51,4,Master,Life Sciences,Operations Executive,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1698,Male,Married,39,1,Below College,Marketing,Talent Partner,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1699,Male,Single,47,5,Doctor,Life Sciences,Supply Chain Analyst,3,Mid,Travel Rarely,Yes,Voluntary,Lack of Career Growth,Growth
+E1700,Female,Married,52,2,College,Technical Degree,Supply Chain Analyst,3,Mid,Travel Frequently,Yes,Voluntary,Work Life Imbalance,Work Environment
+E1701,Female,Single,56,1,Below College,Medical,Research Scientist,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1702,Female,Single,35,2,College,Other,Sales Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1703,Male,Married,26,3,Bachelor,Medical,Software Engineer,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1704,Female,Married,38,3,Bachelor,Life Sciences,Research Scientist,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1705,Male,Married,50,3,Bachelor,Life Sciences,Laboratory Technician,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1706,Male,Married,52,3,Bachelor,Marketing,Sales Representative,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1707,Male,Single,38,2,College,Life Sciences,Research Director,3,Mid,Travel Frequently,Yes,Still Employed,Not Applicable,Not Applicable
+E1708,Female,Single,40,4,Master,Life Sciences,Finance Manager,4,Senior,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1709,Male,Single,52,3,Bachelor,Life Sciences,HR Executive,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1710,Male,Divorced,39,2,College,Technical Degree,Research Scientist,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1711,Female,Married,43,3,Bachelor,Medical,Sales Manager,5,Executive,Travel Frequently,No,Voluntary,Better Compensation,Pay
+E1712,Male,Married,46,3,Bachelor,Technical Degree,Data Analyst,3,Mid,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E1713,Male,Married,35,3,Bachelor,Other,Sales Executive,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1714,Female,Divorced,29,2,College,Marketing,Data Analyst,1,Entry,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E1715,Female,Married,60,3,Bachelor,Technical Degree,Sales Manager,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1716,Male,Married,32,3,Bachelor,Life Sciences,Talent Partner,3,Mid,Travel Frequently,No,Voluntary,Organisational Culture,Work Environment
+E1717,Female,Married,27,4,Master,Medical,Supply Chain Analyst,2,Junior,Travel Rarely,Yes,Voluntary,Work Life Imbalance,Work Environment
+E1718,Female,Single,35,2,College,Other,Supply Chain Analyst,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1719,Female,Married,38,3,Bachelor,Life Sciences,Operations Executive,3,Mid,Travel Frequently,Yes,Voluntary,Job Role Mismatch,Growth
+E1720,Male,Married,40,3,Bachelor,Life Sciences,Sales Representative,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1721,Male,Divorced,34,3,Bachelor,Medical,Software Engineer,3,Mid,Travel Rarely,No,Voluntary,Lack of Career Growth,Growth
+E1722,Male,Married,42,3,Bachelor,Other,Operations Executive,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1723,Male,Married,53,4,Master,Life Sciences,Data Analyst,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1724,Male,Married,34,1,Below College,Marketing,Data Analyst,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1725,Male,Married,37,3,Bachelor,Human Resources,Supply Chain Analyst,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1726,Male,Married,50,3,Bachelor,Technical Degree,Data Analyst,3,Mid,Travel Frequently,Yes,Involuntary,Performance Termination,Company Initiated
+E1727,Female,Married,28,2,College,Medical,Software Engineer,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1728,Female,Married,26,4,Master,Other,Operations Executive,2,Junior,Travel Rarely,No,Voluntary,Poor Manager Relationship,Management
+E1729,Female,Married,31,2,College,Other,Finance Manager,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1730,Male,Married,36,1,Below College,Life Sciences,Talent Partner,2,Junior,Travel Rarely,No,Voluntary,Better Compensation,Pay
+E1731,Male,Married,45,2,College,Marketing,Talent Partner,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1732,Male,Single,22,4,Master,Life Sciences,Accountant,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1733,Female,Married,31,5,Doctor,Life Sciences,Accountant,1,Entry,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1734,Female,Single,27,5,Doctor,Life Sciences,Sales Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1735,Female,Single,22,4,Master,Life Sciences,Sales Manager,3,Mid,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E1736,Female,Divorced,25,3,Bachelor,Marketing,Laboratory Technician,2,Junior,Travel Rarely,No,Voluntary,Health or Personal,Personal
+E1737,Male,Married,44,3,Bachelor,Medical,Research Scientist,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1738,Male,Single,38,2,College,Medical,Supply Chain Analyst,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1739,Male,Single,38,3,Bachelor,Marketing,Software Engineer,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1740,Female,Single,43,3,Bachelor,Life Sciences,Research Director,3,Mid,Travel Frequently,No,Voluntary,Organisational Culture,Work Environment
+E1741,Female,Single,41,1,Below College,Life Sciences,Data Analyst,3,Mid,Travel Rarely,No,Voluntary,Work Life Imbalance,Work Environment
+E1742,Male,Divorced,41,2,College,Marketing,Research Director,4,Senior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1743,Female,Single,55,5,Doctor,Medical,Operations Executive,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1744,Male,Single,43,3,Bachelor,Life Sciences,Sales Manager,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1745,Male,Married,20,1,Below College,Life Sciences,Financial Analyst,1,Entry,Travel Frequently,Yes,Still Employed,Not Applicable,Not Applicable
+E1746,Female,Divorced,42,1,Below College,Life Sciences,HR Executive,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1747,Female,Divorced,46,3,Bachelor,Technical Degree,IT Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1748,Female,Divorced,42,2,College,Life Sciences,Sales Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1749,Male,Married,31,3,Bachelor,Medical,Talent Partner,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1750,Female,Married,27,5,Doctor,Technical Degree,Data Analyst,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1751,Male,Divorced,37,4,Master,Technical Degree,Supply Chain Analyst,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1752,Male,Divorced,43,4,Master,Medical,Sales Executive,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1753,Female,Single,45,5,Doctor,Other,Software Engineer,1,Entry,Travel Rarely,No,Voluntary,Organisational Culture,Work Environment
+E1754,Male,Married,20,2,College,Technical Degree,Sales Executive,1,Entry,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1755,Male,Married,40,3,Bachelor,Life Sciences,Sales Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1756,Male,Divorced,49,4,Master,Other,Sales Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1757,Female,Single,44,4,Master,Other,Operations Manager,5,Executive,Travel Rarely,Yes,Voluntary,Work Life Imbalance,Work Environment
+E1758,Female,Married,60,3,Bachelor,Technical Degree,Data Analyst,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1759,Female,Divorced,30,3,Bachelor,Marketing,Data Analyst,1,Entry,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1760,Female,Single,26,3,Bachelor,Life Sciences,Operations Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1761,Female,Single,45,3,Bachelor,Medical,Data Analyst,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1762,Female,Married,51,5,Doctor,Life Sciences,Data Analyst,3,Mid,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E1763,Male,Divorced,28,1,Below College,Life Sciences,HR Manager,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1764,Female,Divorced,37,5,Doctor,Marketing,Financial Analyst,2,Junior,Travel Rarely,No,Voluntary,Work Life Imbalance,Work Environment
+E1765,Female,Married,39,2,College,Technical Degree,Software Engineer,2,Junior,Non-Travel,Yes,Voluntary,Poor Manager Relationship,Management
+E1766,Male,Divorced,41,2,College,Life Sciences,HR Manager,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1767,Female,Divorced,49,3,Bachelor,Life Sciences,Sales Executive,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1768,Male,Single,59,2,College,Other,Software Engineer,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1769,Male,Divorced,32,3,Bachelor,Life Sciences,Sales Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1770,Male,Single,34,3,Bachelor,Life Sciences,Financial Analyst,2,Junior,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1771,Male,Single,23,2,College,Life Sciences,Data Analyst,1,Entry,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1772,Male,Married,44,4,Master,Life Sciences,Operations Manager,3,Mid,Travel Frequently,Yes,Voluntary,Better Compensation,Pay
+E1773,Male,Single,26,3,Bachelor,Marketing,Accountant,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1774,Female,Married,38,4,Master,Human Resources,Laboratory Technician,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1775,Male,Married,41,2,College,Medical,Research Director,3,Mid,Travel Frequently,No,Voluntary,Lack of Career Growth,Growth
+E1776,Male,Single,49,4,Master,Human Resources,Financial Analyst,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1777,Female,Married,37,1,Below College,Medical,Supply Chain Analyst,2,Junior,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1778,Male,Divorced,32,3,Bachelor,Life Sciences,Financial Analyst,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1779,Male,Divorced,31,4,Master,Medical,Supply Chain Analyst,2,Junior,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1780,Male,Married,46,3,Bachelor,Other,IT Manager,3,Mid,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E1781,Female,Married,34,4,Master,Medical,Accountant,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1782,Female,Married,38,3,Bachelor,Life Sciences,Operations Manager,3,Mid,Non-Travel,Yes,Voluntary,Lack of Career Growth,Growth
+E1783,Male,Single,44,3,Bachelor,Life Sciences,IT Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1784,Female,Married,49,4,Master,Medical,Financial Analyst,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1785,Male,Divorced,48,3,Bachelor,Human Resources,Research Scientist,2,Junior,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1786,Male,Divorced,24,3,Bachelor,Marketing,Operations Manager,3,Mid,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E1787,Male,Married,27,3,Bachelor,Other,IT Manager,3,Mid,Non-Travel,Yes,Involuntary,Performance Termination,Company Initiated
+E1788,Female,Married,40,4,Master,Medical,Data Analyst,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1789,Female,Married,42,4,Master,Life Sciences,Sales Representative,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1790,Male,Married,40,3,Bachelor,Medical,Talent Partner,3,Mid,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E1791,Female,Single,49,5,Doctor,Medical,Sales Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1792,Female,Single,51,3,Bachelor,Medical,Research Director,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1793,Female,Married,36,3,Bachelor,Other,Research Scientist,3,Mid,Non-Travel,No,Voluntary,Organisational Culture,Work Environment
+E1794,Female,Single,39,4,Master,Medical,Sales Executive,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1795,Male,Single,47,3,Bachelor,Life Sciences,Data Analyst,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1796,Male,Single,45,4,Master,Life Sciences,Supply Chain Analyst,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1797,Male,Married,28,3,Bachelor,Technical Degree,Research Scientist,1,Entry,Non-Travel,Yes,Still Employed,Not Applicable,Not Applicable
+E1798,Male,Married,25,4,Master,Medical,Operations Manager,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1799,Male,Married,21,5,Doctor,Medical,Sales Representative,1,Entry,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1800,Male,Single,37,5,Doctor,Life Sciences,Research Director,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1801,Female,Divorced,31,4,Master,Medical,Operations Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1802,Female,Married,31,4,Master,Life Sciences,Supply Chain Analyst,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1803,Male,Married,23,2,College,Life Sciences,Operations Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1804,Male,Single,36,4,Master,Technical Degree,Laboratory Technician,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1805,Female,Married,23,4,Master,Marketing,Sales Executive,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1806,Male,Married,26,3,Bachelor,Medical,Research Director,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1807,Male,Married,34,2,College,Life Sciences,Operations Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1808,Male,Married,41,2,College,Medical,Software Engineer,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1809,Female,Single,37,3,Bachelor,Other,Data Analyst,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1810,Female,Married,43,2,College,Life Sciences,Data Analyst,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1811,Female,Married,36,4,Master,Marketing,Laboratory Technician,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1812,Female,Married,33,2,College,Marketing,IT Manager,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1813,Male,Married,34,1,Below College,Marketing,IT Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1814,Male,Married,29,3,Bachelor,Medical,Laboratory Technician,2,Junior,Travel Rarely,Yes,Voluntary,Poor Manager Relationship,Management
+E1815,Female,Single,37,3,Bachelor,Life Sciences,Sales Representative,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1816,Female,Married,48,1,Below College,Marketing,Sales Representative,2,Junior,Non-Travel,Yes,Still Employed,Not Applicable,Not Applicable
+E1817,Female,Married,44,3,Bachelor,Marketing,Supply Chain Analyst,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1818,Male,Married,43,2,College,Other,Data Analyst,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1819,Female,Married,40,2,College,Technical Degree,Sales Representative,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1820,Female,Married,39,1,Below College,Marketing,Software Engineer,3,Mid,Travel Frequently,Yes,Still Employed,Not Applicable,Not Applicable
+E1821,Female,Divorced,38,3,Bachelor,Medical,Sales Representative,1,Entry,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1822,Male,Single,27,4,Master,Marketing,Supply Chain Analyst,2,Junior,Travel Rarely,No,Voluntary,Better Compensation,Pay
+E1823,Male,Married,27,2,College,Medical,Sales Executive,2,Junior,Travel Frequently,No,Voluntary,Job Role Mismatch,Growth
+E1824,Female,Married,28,4,Master,Medical,Operations Executive,1,Entry,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1825,Male,Single,45,3,Bachelor,Medical,Sales Manager,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1826,Male,Married,31,3,Bachelor,Marketing,Accountant,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1827,Male,Married,43,3,Bachelor,Medical,Research Director,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1828,Male,Divorced,26,4,Master,Life Sciences,Operations Manager,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1829,Male,Divorced,34,2,College,Medical,IT Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1830,Female,Married,28,2,College,Life Sciences,Research Scientist,1,Entry,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1831,Female,Divorced,43,3,Bachelor,Medical,IT Manager,3,Mid,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E1832,Female,Married,55,4,Master,Medical,Research Director,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1833,Female,Single,25,2,College,Technical Degree,Laboratory Technician,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1834,Male,Single,39,2,College,Other,Sales Executive,2,Junior,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1835,Male,Married,29,3,Bachelor,Life Sciences,Sales Representative,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1836,Male,Married,43,3,Bachelor,Life Sciences,Sales Executive,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1837,Male,Married,52,5,Doctor,Life Sciences,IT Manager,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1838,Male,Married,32,3,Bachelor,Technical Degree,Sales Executive,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1839,Male,Single,46,4,Master,Medical,Operations Executive,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1840,Female,Married,36,1,Below College,Life Sciences,Finance Manager,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1841,Male,Single,30,2,College,Human Resources,Finance Manager,3,Mid,Travel Rarely,No,Voluntary,Poor Manager Relationship,Management
+E1842,Male,Single,33,5,Doctor,Medical,Research Director,3,Mid,Travel Frequently,Yes,Still Employed,Not Applicable,Not Applicable
+E1843,Female,Married,48,4,Master,Other,Sales Executive,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1844,Male,Divorced,41,4,Master,Life Sciences,Sales Representative,1,Entry,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1845,Male,Divorced,36,2,College,Medical,Supply Chain Analyst,2,Junior,Travel Rarely,Yes,Voluntary,Job Role Mismatch,Growth
+E1846,Male,Married,35,4,Master,Life Sciences,Software Engineer,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1847,Female,Married,31,3,Bachelor,Medical,Research Director,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1848,Male,Married,43,1,Below College,Other,Research Scientist,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1849,Male,Married,57,3,Bachelor,Marketing,Software Engineer,3,Mid,Non-Travel,Yes,Still Employed,Not Applicable,Not Applicable
+E1850,Female,Married,36,3,Bachelor,Life Sciences,Sales Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1851,Female,Divorced,28,3,Bachelor,Medical,Accountant,1,Entry,Travel Rarely,No,Voluntary,Better Compensation,Pay
+E1852,Male,Married,41,3,Bachelor,Life Sciences,Data Analyst,1,Entry,Travel Rarely,No,Voluntary,Lack of Career Growth,Growth
+E1853,Male,Married,42,5,Doctor,Medical,Laboratory Technician,3,Mid,Travel Rarely,No,Voluntary,Poor Manager Relationship,Management
+E1854,Male,Married,47,1,Below College,Medical,Laboratory Technician,3,Mid,Travel Frequently,Yes,Still Employed,Not Applicable,Not Applicable
+E1855,Female,Married,26,3,Bachelor,Other,Research Director,3,Mid,Travel Rarely,No,Voluntary,Poor Manager Relationship,Management
+E1856,Female,Divorced,40,2,College,Technical Degree,Financial Analyst,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1857,Female,Divorced,29,4,Master,Technical Degree,Software Engineer,2,Junior,Travel Rarely,No,Voluntary,Better Compensation,Pay
+E1858,Male,Divorced,50,3,Bachelor,Medical,Supply Chain Analyst,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1859,Male,Married,44,4,Master,Medical,Research Scientist,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1860,Female,Single,35,3,Bachelor,Life Sciences,Research Scientist,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1861,Female,Married,26,3,Bachelor,Life Sciences,Accountant,1,Entry,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1862,Female,Single,55,5,Doctor,Life Sciences,Financial Analyst,3,Mid,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E1863,Male,Divorced,36,4,Master,Life Sciences,Sales Representative,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1864,Female,Divorced,45,2,College,Medical,Finance Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1865,Female,Married,20,4,Master,Marketing,Operations Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1866,Female,Married,38,2,College,Technical Degree,Sales Representative,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1867,Male,Single,44,3,Bachelor,Medical,Operations Manager,5,Executive,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1868,Male,Single,20,2,College,Other,Sales Representative,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1869,Female,Divorced,40,3,Bachelor,Medical,Sales Executive,3,Mid,Travel Frequently,No,Voluntary,Poor Manager Relationship,Management
+E1870,Female,Married,49,2,College,Marketing,Financial Analyst,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1871,Male,Married,24,3,Bachelor,Life Sciences,Supply Chain Analyst,1,Entry,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1872,Male,Single,36,5,Doctor,Life Sciences,Finance Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1873,Female,Single,34,4,Master,Medical,Financial Analyst,2,Junior,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E1874,Male,Married,31,2,College,Life Sciences,Sales Executive,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1875,Male,Married,31,3,Bachelor,Technical Degree,Financial Analyst,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1876,Male,Married,29,3,Bachelor,Medical,HR Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1877,Female,Married,30,2,College,Life Sciences,Sales Representative,1,Entry,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E1878,Male,Married,36,4,Master,Technical Degree,Operations Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1879,Female,Single,38,4,Master,Technical Degree,Sales Representative,2,Junior,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1880,Male,Married,25,1,Below College,Life Sciences,Laboratory Technician,1,Entry,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1881,Male,Married,31,4,Master,Life Sciences,Research Director,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1882,Male,Single,38,3,Bachelor,Marketing,Supply Chain Analyst,1,Entry,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1883,Male,Single,48,3,Bachelor,Technical Degree,Data Analyst,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1884,Male,Married,48,5,Doctor,Life Sciences,Operations Executive,2,Junior,Travel Rarely,Yes,Voluntary,Poor Manager Relationship,Management
+E1885,Male,Single,37,3,Bachelor,Other,Sales Representative,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1886,Female,Married,38,3,Bachelor,Other,Sales Executive,2,Junior,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1887,Male,Single,24,3,Bachelor,Life Sciences,Laboratory Technician,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1888,Male,Married,38,4,Master,Marketing,Research Director,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1889,Female,Single,20,3,Bachelor,Technical Degree,Operations Manager,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1890,Female,Single,33,4,Master,Life Sciences,HR Executive,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1891,Male,Divorced,25,2,College,Marketing,Laboratory Technician,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1892,Male,Single,30,5,Doctor,Other,Accountant,1,Entry,Travel Rarely,Yes,Voluntary,Work Life Imbalance,Work Environment
+E1893,Male,Divorced,38,3,Bachelor,Medical,Research Director,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1894,Female,Married,39,2,College,Marketing,Software Engineer,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1895,Male,Married,48,5,Doctor,Life Sciences,Supply Chain Analyst,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1896,Female,Divorced,39,4,Master,Marketing,Operations Executive,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1897,Male,Married,32,3,Bachelor,Life Sciences,Software Engineer,3,Mid,Travel Frequently,Yes,Still Employed,Not Applicable,Not Applicable
+E1898,Male,Married,43,3,Bachelor,Life Sciences,Operations Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1899,Male,Single,22,4,Master,Life Sciences,Supply Chain Analyst,1,Entry,Travel Frequently,Yes,Still Employed,Not Applicable,Not Applicable
+E1900,Female,Divorced,52,1,Below College,Medical,Supply Chain Analyst,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1901,Male,Single,20,4,Master,Marketing,Finance Manager,3,Mid,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E1902,Male,Divorced,43,1,Below College,Life Sciences,Software Engineer,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1903,Female,Married,42,1,Below College,Medical,Laboratory Technician,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1904,Female,Married,32,1,Below College,Marketing,Research Director,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1905,Male,Married,33,5,Doctor,Medical,Sales Manager,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1906,Female,Married,23,2,College,Medical,IT Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1907,Female,Married,38,2,College,Technical Degree,Sales Executive,2,Junior,Travel Rarely,No,Voluntary,Organisational Culture,Work Environment
+E1908,Female,Single,42,3,Bachelor,Life Sciences,Data Analyst,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1909,Male,Married,32,3,Bachelor,Human Resources,Research Scientist,1,Entry,Travel Frequently,Yes,Still Employed,Not Applicable,Not Applicable
+E1910,Female,Single,41,4,Master,Technical Degree,Data Analyst,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1911,Female,Single,43,4,Master,Life Sciences,Sales Representative,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1912,Male,Single,30,4,Master,Medical,Sales Executive,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1913,Female,Married,45,4,Master,Medical,Operations Manager,4,Senior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1914,Female,Divorced,41,2,College,Marketing,Laboratory Technician,2,Junior,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1915,Female,Single,38,4,Master,Medical,Laboratory Technician,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1916,Male,Single,44,3,Bachelor,Life Sciences,Sales Manager,3,Mid,Travel Rarely,Yes,Voluntary,Better Compensation,Pay
+E1917,Male,Divorced,40,3,Bachelor,Other,Sales Executive,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1918,Female,Married,30,1,Below College,Life Sciences,Software Engineer,1,Entry,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E1919,Male,Single,31,3,Bachelor,Life Sciences,Financial Analyst,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1920,Male,Single,39,4,Master,Medical,Operations Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1921,Female,Divorced,47,3,Bachelor,Marketing,Research Scientist,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1922,Male,Single,39,3,Bachelor,Technical Degree,Research Director,3,Mid,Travel Rarely,Yes,Voluntary,Poor Manager Relationship,Management
+E1923,Male,Married,33,5,Doctor,Marketing,Data Analyst,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1924,Male,Divorced,37,4,Master,Medical,IT Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1925,Female,Divorced,26,1,Below College,Life Sciences,Financial Analyst,2,Junior,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1926,Male,Divorced,47,3,Bachelor,Life Sciences,Operations Executive,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1927,Female,Single,50,2,College,Medical,Sales Manager,3,Mid,Non-Travel,Yes,Still Employed,Not Applicable,Not Applicable
+E1928,Male,Single,52,2,College,Life Sciences,Research Scientist,3,Mid,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E1929,Female,Divorced,45,2,College,Human Resources,Financial Analyst,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1930,Male,Married,31,4,Master,Technical Degree,Research Scientist,2,Junior,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E1931,Male,Single,36,4,Master,Other,Research Director,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1932,Male,Single,33,2,College,Marketing,Supply Chain Analyst,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1933,Female,Single,41,2,College,Medical,Sales Representative,3,Mid,Travel Frequently,Yes,Still Employed,Not Applicable,Not Applicable
+E1934,Female,Married,49,3,Bachelor,Medical,Software Engineer,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1935,Male,Married,20,3,Bachelor,Life Sciences,Sales Manager,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1936,Male,Divorced,40,3,Bachelor,Life Sciences,Operations Executive,1,Entry,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E1937,Female,Married,39,2,College,Life Sciences,Research Scientist,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1938,Male,Married,39,5,Doctor,Medical,Operations Executive,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1939,Female,Married,43,2,College,Technical Degree,Research Director,3,Mid,Travel Rarely,No,Voluntary,Better Compensation,Pay
+E1940,Male,Married,29,1,Below College,Other,Laboratory Technician,3,Mid,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E1941,Male,Married,45,4,Master,Technical Degree,Operations Executive,3,Mid,Travel Frequently,Yes,Still Employed,Not Applicable,Not Applicable
+E1942,Male,Married,40,2,College,Technical Degree,IT Manager,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1943,Male,Divorced,35,2,College,Other,Operations Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1944,Male,Divorced,37,2,College,Life Sciences,Sales Representative,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1945,Male,Married,33,3,Bachelor,Medical,Sales Representative,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1946,Male,Married,38,1,Below College,Other,Sales Executive,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1947,Male,Divorced,42,3,Bachelor,Human Resources,Research Director,3,Mid,Non-Travel,Yes,Still Employed,Not Applicable,Not Applicable
+E1948,Male,Single,25,3,Bachelor,Medical,Sales Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1949,Male,Married,34,3,Bachelor,Technical Degree,Software Engineer,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1950,Female,Divorced,33,1,Below College,Life Sciences,Research Director,3,Mid,Travel Rarely,No,Voluntary,Poor Manager Relationship,Management
+E1951,Male,Married,36,3,Bachelor,Medical,Research Director,4,Senior,Non-Travel,No,Voluntary,Poor Manager Relationship,Management
+E1952,Female,Married,34,4,Master,Other,Sales Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1953,Male,Married,21,5,Doctor,Other,Laboratory Technician,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1954,Male,Married,41,1,Below College,Other,Talent Partner,2,Junior,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E1955,Female,Single,47,3,Bachelor,Medical,Laboratory Technician,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1956,Male,Married,31,3,Bachelor,Life Sciences,Sales Manager,3,Mid,Travel Rarely,No,Voluntary,Lack of Career Growth,Growth
+E1957,Male,Married,38,4,Master,Medical,Operations Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1958,Male,Married,31,3,Bachelor,Human Resources,IT Manager,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1959,Male,Single,39,3,Bachelor,Life Sciences,Sales Executive,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1960,Female,Divorced,35,3,Bachelor,Life Sciences,Sales Executive,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1961,Female,Single,47,3,Bachelor,Marketing,Operations Manager,4,Senior,Travel Frequently,No,Involuntary,Performance Termination,Company Initiated
+E1962,Male,Single,32,4,Master,Life Sciences,Research Director,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1963,Male,Married,43,2,College,Life Sciences,Sales Executive,2,Junior,Travel Rarely,No,Voluntary,Work Life Imbalance,Work Environment
+E1964,Female,Married,30,5,Doctor,Life Sciences,Sales Executive,2,Junior,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1965,Male,Married,32,3,Bachelor,Other,Software Engineer,1,Entry,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1966,Female,Single,38,3,Bachelor,Medical,Supply Chain Analyst,2,Junior,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1967,Male,Married,22,5,Doctor,Life Sciences,Talent Partner,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1968,Female,Divorced,29,4,Master,Medical,Sales Manager,3,Mid,Travel Rarely,No,Voluntary,Better Compensation,Pay
+E1969,Male,Single,44,1,Below College,Medical,Software Engineer,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1970,Male,Single,31,3,Bachelor,Other,Research Director,3,Mid,Travel Rarely,No,Voluntary,Job Role Mismatch,Growth
+E1971,Male,Single,25,1,Below College,Life Sciences,Laboratory Technician,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1972,Male,Single,24,4,Master,Medical,Operations Executive,1,Entry,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E1973,Female,Married,37,3,Bachelor,Life Sciences,IT Manager,3,Mid,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E1974,Female,Married,32,4,Master,Other,Sales Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1975,Female,Married,37,3,Bachelor,Medical,Financial Analyst,2,Junior,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E1976,Male,Married,20,3,Bachelor,Life Sciences,Research Scientist,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1977,Male,Married,30,4,Master,Other,Data Analyst,1,Entry,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1978,Female,Married,30,2,College,Marketing,Research Scientist,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1979,Female,Single,43,4,Master,Marketing,Research Scientist,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1980,Female,Married,45,3,Bachelor,Medical,Operations Executive,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1981,Male,Divorced,43,3,Bachelor,Technical Degree,Software Engineer,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1982,Female,Single,20,4,Master,Other,Operations Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1983,Female,Single,44,3,Bachelor,Marketing,Accountant,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1984,Male,Single,47,4,Master,Other,Sales Executive,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1985,Female,Single,29,5,Doctor,Other,Sales Executive,3,Mid,Travel Rarely,Yes,Voluntary,Work Life Imbalance,Work Environment
+E1986,Male,Single,39,3,Bachelor,Life Sciences,Supply Chain Analyst,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1987,Female,Married,40,2,College,Technical Degree,Sales Manager,3,Mid,Non-Travel,No,Voluntary,Job Role Mismatch,Growth
+E1988,Female,Married,33,2,College,Other,Data Analyst,1,Entry,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E1989,Female,Single,38,4,Master,Life Sciences,IT Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1990,Male,Married,29,3,Bachelor,Life Sciences,Financial Analyst,2,Junior,Non-Travel,Yes,Still Employed,Not Applicable,Not Applicable
+E1991,Female,Married,38,2,College,Life Sciences,Research Scientist,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1992,Male,Married,35,3,Bachelor,Medical,IT Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1993,Male,Married,39,3,Bachelor,Life Sciences,Operations Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1994,Male,Married,54,3,Bachelor,Life Sciences,Supply Chain Analyst,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1995,Male,Single,27,3,Bachelor,Life Sciences,Sales Manager,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E1996,Male,Married,47,4,Master,Marketing,Finance Manager,3,Mid,Non-Travel,Yes,Still Employed,Not Applicable,Not Applicable
+E1997,Male,Married,37,2,College,Life Sciences,Data Analyst,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E1998,Female,Single,37,3,Bachelor,Other,Sales Executive,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E1999,Male,Married,20,2,College,Life Sciences,Sales Representative,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2000,Female,Single,45,3,Bachelor,Marketing,Research Director,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2001,Male,Married,26,4,Master,Medical,Data Analyst,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2002,Male,Single,28,3,Bachelor,Life Sciences,Sales Representative,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2003,Female,Married,34,1,Below College,Life Sciences,Operations Manager,3,Mid,Travel Frequently,Yes,Still Employed,Not Applicable,Not Applicable
+E2004,Male,Single,34,3,Bachelor,Marketing,Accountant,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2005,Male,Married,29,1,Below College,Medical,Supply Chain Analyst,1,Entry,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E2006,Female,Single,50,2,College,Life Sciences,Sales Executive,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2007,Male,Married,43,1,Below College,Medical,Software Engineer,2,Junior,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E2008,Female,Single,58,2,College,Life Sciences,Sales Manager,5,Executive,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2009,Female,Married,30,1,Below College,Life Sciences,IT Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2010,Female,Married,30,4,Master,Life Sciences,Sales Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2011,Male,Single,54,3,Bachelor,Life Sciences,Operations Executive,2,Junior,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E2012,Male,Single,25,4,Master,Life Sciences,Research Director,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2013,Male,Married,39,3,Bachelor,Marketing,Laboratory Technician,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2014,Female,Married,34,3,Bachelor,Life Sciences,Data Analyst,2,Junior,Travel Rarely,No,Involuntary,Performance Termination,Company Initiated
+E2015,Female,Married,35,3,Bachelor,Marketing,Laboratory Technician,3,Mid,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E2016,Female,Married,24,3,Bachelor,Life Sciences,Talent Partner,1,Entry,Travel Rarely,Yes,Voluntary,Work Life Imbalance,Work Environment
+E2017,Male,Married,31,1,Below College,Other,Accountant,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2018,Female,Single,55,3,Bachelor,Life Sciences,Sales Representative,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2019,Male,Divorced,38,2,College,Medical,Operations Executive,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2020,Male,Single,51,3,Bachelor,Technical Degree,IT Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2021,Female,Married,31,4,Master,Life Sciences,Research Scientist,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2022,Female,Married,38,3,Bachelor,Life Sciences,Software Engineer,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2023,Female,Single,43,4,Master,Medical,Sales Executive,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2024,Male,Married,43,2,College,Technical Degree,Talent Partner,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2025,Female,Married,35,4,Master,Medical,Sales Representative,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2026,Female,Married,38,3,Bachelor,Life Sciences,Sales Executive,3,Mid,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E2027,Male,Married,47,5,Doctor,Marketing,Accountant,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2028,Male,Married,40,5,Doctor,Life Sciences,Sales Executive,2,Junior,Travel Rarely,No,Voluntary,Health or Personal,Personal
+E2029,Male,Married,21,2,College,Marketing,IT Manager,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2030,Male,Single,32,1,Below College,Life Sciences,Supply Chain Analyst,3,Mid,Travel Rarely,Yes,Voluntary,Work Life Imbalance,Work Environment
+E2031,Male,Single,27,3,Bachelor,Medical,Laboratory Technician,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2032,Male,Single,22,2,College,Medical,Financial Analyst,1,Entry,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2033,Female,Married,44,3,Bachelor,Life Sciences,Sales Executive,2,Junior,Travel Rarely,Yes,Voluntary,Lack of Career Growth,Growth
+E2034,Female,Divorced,47,3,Bachelor,Medical,Operations Executive,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E2035,Male,Single,30,3,Bachelor,Medical,Data Analyst,1,Entry,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E2036,Male,Married,34,3,Bachelor,Human Resources,IT Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2037,Female,Single,55,3,Bachelor,Marketing,Sales Representative,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2038,Male,Married,36,3,Bachelor,Medical,Sales Manager,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2039,Female,Married,36,4,Master,Life Sciences,Supply Chain Analyst,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2040,Female,Married,40,5,Doctor,Life Sciences,Research Director,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E2041,Female,Divorced,49,3,Bachelor,Life Sciences,Software Engineer,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2042,Male,Single,42,3,Bachelor,Technical Degree,Accountant,2,Junior,Travel Rarely,Yes,Voluntary,Poor Manager Relationship,Management
+E2043,Male,Married,47,3,Bachelor,Life Sciences,Financial Analyst,3,Mid,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E2044,Male,Divorced,28,3,Bachelor,Medical,Operations Executive,1,Entry,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E2045,Female,Single,45,3,Bachelor,Medical,IT Manager,4,Senior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2046,Male,Divorced,36,2,College,Medical,Research Director,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2047,Male,Single,30,3,Bachelor,Medical,Finance Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2048,Male,Married,42,3,Bachelor,Technical Degree,Sales Executive,2,Junior,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E2049,Female,Married,60,2,College,Medical,Software Engineer,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2050,Male,Married,39,3,Bachelor,Marketing,IT Manager,4,Senior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2051,Male,Married,46,2,College,Other,Sales Manager,4,Senior,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E2052,Female,Single,35,3,Bachelor,Medical,Research Scientist,2,Junior,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E2053,Female,Single,23,3,Bachelor,Life Sciences,Data Analyst,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2054,Female,Married,42,3,Bachelor,Life Sciences,Financial Analyst,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2055,Male,Single,28,5,Doctor,Life Sciences,Research Director,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2056,Female,Married,35,3,Bachelor,Medical,Research Director,4,Senior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2057,Female,Married,55,4,Master,Human Resources,Operations Executive,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2058,Female,Divorced,21,2,College,Life Sciences,Operations Manager,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E2059,Female,Married,40,4,Master,Life Sciences,Sales Executive,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2060,Male,Married,42,4,Master,Medical,Research Scientist,2,Junior,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2061,Female,Divorced,40,2,College,Life Sciences,IT Manager,3,Mid,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E2062,Male,Married,32,4,Master,Life Sciences,IT Manager,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2063,Male,Divorced,39,4,Master,Medical,Operations Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2064,Female,Single,29,4,Master,Marketing,Software Engineer,2,Junior,Travel Frequently,Yes,Still Employed,Not Applicable,Not Applicable
+E2065,Female,Married,51,3,Bachelor,Life Sciences,Supply Chain Analyst,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E2066,Male,Married,39,1,Below College,Marketing,Data Analyst,3,Mid,Travel Rarely,No,Voluntary,Poor Manager Relationship,Management
+E2067,Male,Married,49,3,Bachelor,Medical,Laboratory Technician,2,Junior,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E2068,Male,Married,35,3,Bachelor,Life Sciences,Sales Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2069,Female,Single,45,1,Below College,Other,Sales Representative,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2070,Male,Single,43,2,College,Medical,Financial Analyst,2,Junior,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E2071,Female,Married,27,2,College,Marketing,Sales Representative,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2072,Female,Single,51,3,Bachelor,Marketing,Data Analyst,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2073,Female,Single,60,2,College,Life Sciences,Sales Manager,5,Executive,Travel Rarely,Yes,Voluntary,Work Life Imbalance,Work Environment
+E2074,Male,Married,47,2,College,Marketing,Data Analyst,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E2075,Male,Married,25,1,Below College,Life Sciences,Research Director,3,Mid,Travel Frequently,Yes,Still Employed,Not Applicable,Not Applicable
+E2076,Male,Single,30,3,Bachelor,Life Sciences,Sales Manager,3,Mid,Travel Rarely,No,Voluntary,Poor Manager Relationship,Management
+E2077,Female,Married,20,1,Below College,Other,Laboratory Technician,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2078,Male,Married,30,5,Doctor,Life Sciences,Sales Executive,1,Entry,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2079,Female,Divorced,53,5,Doctor,Marketing,Sales Manager,3,Mid,Travel Rarely,Yes,Involuntary,Performance Termination,Company Initiated
+E2080,Male,Divorced,47,3,Bachelor,Human Resources,Sales Representative,2,Junior,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2081,Male,Married,29,2,College,Medical,IT Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2082,Male,Divorced,26,3,Bachelor,Life Sciences,Research Director,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2083,Female,Single,31,4,Master,Human Resources,HR Manager,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E2084,Male,Single,47,3,Bachelor,Marketing,Sales Executive,3,Mid,Travel Rarely,No,Voluntary,Poor Manager Relationship,Management
+E2085,Male,Married,42,4,Master,Medical,Sales Representative,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2086,Male,Single,51,3,Bachelor,Life Sciences,Finance Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2087,Female,Married,31,3,Bachelor,Marketing,Laboratory Technician,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2088,Male,Divorced,38,3,Bachelor,Technical Degree,Research Scientist,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2089,Female,Married,31,3,Bachelor,Life Sciences,Sales Representative,1,Entry,Travel Frequently,Yes,Still Employed,Not Applicable,Not Applicable
+E2090,Male,Single,35,3,Bachelor,Life Sciences,Supply Chain Analyst,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2091,Female,Married,34,2,College,Technical Degree,Software Engineer,2,Junior,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E2092,Male,Married,35,4,Master,Other,Laboratory Technician,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2093,Female,Married,43,4,Master,Medical,Laboratory Technician,2,Junior,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E2094,Male,Married,33,3,Bachelor,Life Sciences,Research Director,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2095,Female,Single,36,3,Bachelor,Marketing,Sales Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2096,Male,Single,29,2,College,Medical,Laboratory Technician,2,Junior,Travel Rarely,Yes,Involuntary,Performance Termination,Company Initiated
+E2097,Male,Married,48,5,Doctor,Medical,IT Manager,4,Senior,Travel Frequently,Yes,Voluntary,Lack of Career Growth,Growth
+E2098,Female,Married,53,3,Bachelor,Medical,Sales Manager,5,Executive,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2099,Male,Married,55,2,College,Life Sciences,Software Engineer,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2100,Female,Divorced,45,3,Bachelor,Medical,Sales Manager,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2101,Male,Single,37,3,Bachelor,Life Sciences,HR Executive,2,Junior,Travel Frequently,Yes,Still Employed,Not Applicable,Not Applicable
+E2102,Male,Married,29,1,Below College,Technical Degree,Operations Executive,1,Entry,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2103,Female,Married,28,3,Bachelor,Other,Research Scientist,2,Junior,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E2104,Male,Married,37,4,Master,Medical,Data Analyst,3,Mid,Travel Rarely,No,Voluntary,Lack of Career Growth,Growth
+E2105,Male,Single,26,3,Bachelor,Marketing,Operations Executive,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2106,Male,Single,44,4,Master,Life Sciences,Operations Manager,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E2107,Female,Married,40,3,Bachelor,Life Sciences,Laboratory Technician,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E2108,Male,Divorced,25,3,Bachelor,Life Sciences,Sales Representative,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2109,Male,Single,35,3,Bachelor,Medical,Financial Analyst,3,Mid,Travel Frequently,Yes,Voluntary,Better Compensation,Pay
+E2110,Female,Single,45,4,Master,Human Resources,Sales Executive,2,Junior,Travel Frequently,No,Voluntary,Job Role Mismatch,Growth
+E2111,Female,Single,48,3,Bachelor,Life Sciences,Data Analyst,3,Mid,Travel Frequently,Yes,Still Employed,Not Applicable,Not Applicable
+E2112,Male,Single,39,4,Master,Technical Degree,Software Engineer,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2113,Male,Single,43,4,Master,Marketing,Laboratory Technician,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2114,Female,Married,40,3,Bachelor,Medical,Operations Manager,3,Mid,Travel Rarely,No,Voluntary,Better Compensation,Pay
+E2115,Female,Married,33,1,Below College,Medical,Operations Manager,3,Mid,Non-Travel,No,Voluntary,Poor Manager Relationship,Management
+E2116,Female,Married,39,3,Bachelor,Life Sciences,Research Scientist,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2117,Male,Single,39,3,Bachelor,Human Resources,Sales Representative,3,Mid,Travel Rarely,No,Voluntary,Work Life Imbalance,Work Environment
+E2118,Male,Single,32,3,Bachelor,Medical,Laboratory Technician,1,Entry,Travel Rarely,No,Voluntary,Organisational Culture,Work Environment
+E2119,Female,Married,40,2,College,Other,HR Executive,1,Entry,Travel Rarely,No,Involuntary,Performance Termination,Company Initiated
+E2120,Female,Single,37,4,Master,Marketing,Operations Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2121,Female,Single,41,3,Bachelor,Life Sciences,Supply Chain Analyst,1,Entry,Travel Rarely,Yes,Voluntary,Poor Manager Relationship,Management
+E2122,Male,Married,38,4,Master,Marketing,Sales Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2123,Male,Married,37,2,College,Life Sciences,Data Analyst,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2124,Female,Married,21,2,College,Medical,Sales Executive,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2125,Female,Married,59,3,Bachelor,Medical,Sales Executive,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2126,Female,Married,44,2,College,Life Sciences,Sales Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2127,Male,Married,41,4,Master,Technical Degree,Research Scientist,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2128,Female,Single,53,3,Bachelor,Life Sciences,Data Analyst,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2129,Male,Single,46,5,Doctor,Technical Degree,Supply Chain Analyst,3,Mid,Travel Rarely,No,Voluntary,Organisational Culture,Work Environment
+E2130,Male,Married,42,4,Master,Medical,Research Director,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2131,Male,Single,43,3,Bachelor,Marketing,Data Analyst,2,Junior,Travel Rarely,Yes,Voluntary,Organisational Culture,Work Environment
+E2132,Female,Single,53,3,Bachelor,Medical,Software Engineer,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2133,Male,Single,40,3,Bachelor,Life Sciences,Financial Analyst,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2134,Male,Married,25,5,Doctor,Medical,Operations Manager,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E2135,Male,Single,24,3,Bachelor,Medical,IT Manager,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2136,Male,Single,50,4,Master,Medical,Sales Manager,3,Mid,Travel Rarely,Yes,Voluntary,Relocation,Personal
+E2137,Female,Married,36,3,Bachelor,Life Sciences,Finance Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2138,Female,Single,42,3,Bachelor,Life Sciences,Operations Executive,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2139,Female,Single,37,2,College,Life Sciences,HR Executive,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2140,Female,Married,42,3,Bachelor,Medical,Laboratory Technician,2,Junior,Travel Frequently,No,Voluntary,Poor Manager Relationship,Management
+E2141,Male,Married,30,2,College,Other,Research Director,3,Mid,Travel Rarely,No,Voluntary,Lack of Career Growth,Growth
+E2142,Male,Single,42,3,Bachelor,Medical,Software Engineer,3,Mid,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E2143,Male,Married,20,3,Bachelor,Life Sciences,Data Analyst,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2144,Female,Married,35,3,Bachelor,Medical,Sales Executive,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2145,Male,Married,25,1,Below College,Other,Operations Executive,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2146,Male,Single,38,3,Bachelor,Medical,Operations Executive,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2147,Male,Married,38,3,Bachelor,Life Sciences,Research Director,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E2148,Female,Single,36,4,Master,Life Sciences,Research Scientist,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2149,Male,Divorced,39,3,Bachelor,Marketing,Research Scientist,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2150,Male,Single,22,4,Master,Life Sciences,Operations Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2151,Male,Married,28,4,Master,Life Sciences,Research Director,3,Mid,Non-Travel,Yes,Voluntary,Better Compensation,Pay
+E2152,Male,Married,36,2,College,Life Sciences,Supply Chain Analyst,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2153,Male,Divorced,41,4,Master,Life Sciences,Operations Manager,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2154,Male,Married,40,3,Bachelor,Other,Data Analyst,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2155,Female,Married,22,3,Bachelor,Marketing,Supply Chain Analyst,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2156,Female,Divorced,49,3,Bachelor,Medical,Sales Representative,2,Junior,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2157,Male,Married,36,1,Below College,Other,Sales Manager,3,Mid,Travel Rarely,Yes,Voluntary,Work Life Imbalance,Work Environment
+E2158,Female,Single,52,3,Bachelor,Technical Degree,Accountant,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2159,Male,Married,43,3,Bachelor,Other,Sales Executive,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2160,Male,Single,48,2,College,Marketing,Laboratory Technician,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2161,Female,Married,42,1,Below College,Life Sciences,Laboratory Technician,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E2162,Female,Married,33,2,College,Medical,Sales Representative,3,Mid,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E2163,Male,Married,35,5,Doctor,Medical,Sales Executive,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E2164,Male,Married,45,2,College,Technical Degree,Sales Executive,2,Junior,Travel Rarely,No,Voluntary,Job Role Mismatch,Growth
+E2165,Male,Divorced,34,3,Bachelor,Life Sciences,Sales Executive,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2166,Male,Divorced,20,3,Bachelor,Marketing,Software Engineer,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2167,Female,Married,37,3,Bachelor,Other,Research Director,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2168,Male,Married,39,3,Bachelor,Other,Software Engineer,2,Junior,Non-Travel,Yes,Still Employed,Not Applicable,Not Applicable
+E2169,Female,Single,41,3,Bachelor,Life Sciences,Sales Manager,3,Mid,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E2170,Male,Married,43,2,College,Life Sciences,Finance Manager,3,Mid,Travel Frequently,Yes,Still Employed,Not Applicable,Not Applicable
+E2171,Male,Single,55,1,Below College,Technical Degree,Talent Partner,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2172,Female,Divorced,24,4,Master,Technical Degree,Finance Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2173,Female,Single,53,2,College,Medical,IT Manager,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E2174,Female,Married,44,3,Bachelor,Marketing,Laboratory Technician,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2175,Female,Divorced,37,1,Below College,Marketing,Operations Manager,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2176,Male,Married,25,3,Bachelor,Life Sciences,Sales Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2177,Female,Married,38,2,College,Other,Supply Chain Analyst,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2178,Male,Divorced,43,5,Doctor,Life Sciences,HR Executive,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2179,Male,Single,37,4,Master,Life Sciences,Sales Representative,2,Junior,Travel Rarely,No,Voluntary,Poor Manager Relationship,Management
+E2180,Male,Married,33,2,College,Marketing,Laboratory Technician,1,Entry,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E2181,Male,Divorced,32,3,Bachelor,Human Resources,Sales Executive,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2182,Male,Single,30,2,College,Marketing,Operations Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2183,Male,Married,43,3,Bachelor,Other,Research Scientist,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E2184,Male,Single,42,2,College,Marketing,HR Manager,3,Mid,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E2185,Female,Married,46,3,Bachelor,Medical,Finance Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2186,Female,Married,30,1,Below College,Medical,Research Director,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2187,Male,Single,49,1,Below College,Life Sciences,Data Analyst,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2188,Female,Single,59,3,Bachelor,Technical Degree,Supply Chain Analyst,3,Mid,Travel Frequently,Yes,Still Employed,Not Applicable,Not Applicable
+E2189,Female,Married,38,3,Bachelor,Medical,Supply Chain Analyst,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2190,Male,Single,47,3,Bachelor,Medical,Sales Executive,2,Junior,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E2191,Female,Single,25,4,Master,Marketing,Research Director,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E2192,Female,Single,58,2,College,Medical,Research Director,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2193,Male,Single,43,1,Below College,Medical,Operations Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2194,Male,Married,48,3,Bachelor,Human Resources,Sales Representative,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2195,Female,Divorced,40,3,Bachelor,Life Sciences,Sales Representative,1,Entry,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E2196,Female,Married,23,3,Bachelor,Medical,Operations Executive,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2197,Male,Divorced,42,1,Below College,Life Sciences,Laboratory Technician,2,Junior,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2198,Female,Single,37,4,Master,Medical,Laboratory Technician,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2199,Male,Married,45,2,College,Other,Sales Executive,2,Junior,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2200,Male,Divorced,30,3,Bachelor,Medical,Sales Executive,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2201,Female,Divorced,20,1,Below College,Life Sciences,Research Director,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2202,Male,Single,36,3,Bachelor,Life Sciences,Laboratory Technician,2,Junior,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E2203,Female,Single,34,4,Master,Medical,IT Manager,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E2204,Male,Married,44,3,Bachelor,Life Sciences,Supply Chain Analyst,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2205,Male,Single,29,2,College,Medical,Sales Representative,2,Junior,Travel Frequently,Yes,Voluntary,Better Compensation,Pay
+E2206,Male,Divorced,34,1,Below College,Marketing,Operations Executive,2,Junior,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E2207,Male,Single,34,2,College,Life Sciences,Sales Executive,1,Entry,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E2208,Female,Married,30,1,Below College,Life Sciences,Operations Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2209,Female,Divorced,42,2,College,Medical,Research Director,3,Mid,Travel Frequently,Yes,Still Employed,Not Applicable,Not Applicable
+E2210,Female,Divorced,35,4,Master,Life Sciences,Operations Executive,1,Entry,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E2211,Female,Married,33,3,Bachelor,Marketing,Data Analyst,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2212,Female,Married,31,1,Below College,Medical,Data Analyst,2,Junior,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2213,Male,Married,34,1,Below College,Marketing,Accountant,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2214,Female,Single,51,3,Bachelor,Life Sciences,Sales Manager,4,Senior,Travel Rarely,No,Voluntary,Lack of Career Growth,Growth
+E2215,Male,Single,35,5,Doctor,Other,Sales Representative,2,Junior,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2216,Female,Married,31,4,Master,Other,Laboratory Technician,3,Mid,Non-Travel,Yes,Voluntary,Better Compensation,Pay
+E2217,Male,Single,38,2,College,Marketing,Sales Representative,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2218,Male,Single,44,3,Bachelor,Medical,Research Director,4,Senior,Non-Travel,No,Voluntary,Lack of Career Growth,Growth
+E2219,Male,Divorced,37,4,Master,Marketing,Software Engineer,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2220,Male,Single,41,4,Master,Life Sciences,Research Director,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2221,Female,Married,43,2,College,Marketing,Laboratory Technician,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E2222,Male,Single,44,5,Doctor,Medical,Data Analyst,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2223,Female,Married,39,2,College,Marketing,Supply Chain Analyst,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2224,Male,Single,25,5,Doctor,Other,Laboratory Technician,1,Entry,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E2225,Male,Married,36,3,Bachelor,Life Sciences,HR Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2226,Male,Married,31,3,Bachelor,Medical,Accountant,1,Entry,Travel Rarely,Yes,Voluntary,Work Life Imbalance,Work Environment
+E2227,Male,Divorced,44,4,Master,Life Sciences,Supply Chain Analyst,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E2228,Male,Single,49,3,Bachelor,Other,Sales Executive,2,Junior,Travel Frequently,No,Voluntary,Poor Manager Relationship,Management
+E2229,Male,Married,34,4,Master,Other,Operations Executive,2,Junior,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2230,Male,Married,44,4,Master,Life Sciences,Sales Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2231,Male,Married,40,2,College,Marketing,Accountant,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E2232,Male,Divorced,35,2,College,Life Sciences,Software Engineer,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2233,Male,Married,50,4,Master,Medical,Sales Manager,4,Senior,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E2234,Male,Married,33,2,College,Marketing,Operations Executive,1,Entry,Non-Travel,Yes,Still Employed,Not Applicable,Not Applicable
+E2235,Male,Single,31,3,Bachelor,Marketing,Research Director,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2236,Female,Married,29,4,Master,Other,Sales Representative,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2237,Male,Divorced,47,4,Master,Medical,HR Executive,3,Mid,Non-Travel,Yes,Voluntary,Poor Manager Relationship,Management
+E2238,Female,Married,30,2,College,Medical,Sales Representative,2,Junior,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E2239,Male,Married,30,4,Master,Marketing,Research Director,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E2240,Female,Married,47,3,Bachelor,Medical,Accountant,2,Junior,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2241,Female,Married,40,4,Master,Other,Operations Executive,3,Mid,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E2242,Female,Married,36,2,College,Technical Degree,Software Engineer,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2243,Male,Single,29,1,Below College,Medical,Software Engineer,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2244,Male,Single,39,4,Master,Medical,Laboratory Technician,2,Junior,Travel Rarely,Yes,Voluntary,Job Role Mismatch,Growth
+E2245,Male,Married,27,3,Bachelor,Life Sciences,Software Engineer,2,Junior,Travel Rarely,No,Involuntary,Performance Termination,Company Initiated
+E2246,Male,Divorced,39,2,College,Medical,IT Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2247,Male,Single,38,4,Master,Other,Research Director,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2248,Female,Married,36,4,Master,Technical Degree,Sales Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2249,Male,Divorced,39,4,Master,Medical,Research Director,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2250,Female,Married,42,1,Below College,Other,Supply Chain Analyst,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2251,Male,Single,21,3,Bachelor,Medical,Accountant,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2252,Female,Married,28,4,Master,Technical Degree,Sales Manager,3,Mid,Travel Frequently,Yes,Still Employed,Not Applicable,Not Applicable
+E2253,Female,Single,43,2,College,Other,Data Analyst,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2254,Male,Divorced,36,5,Doctor,Life Sciences,Operations Executive,2,Junior,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E2255,Female,Married,45,2,College,Technical Degree,Sales Manager,4,Senior,Travel Rarely,No,Voluntary,Better Compensation,Pay
+E2256,Female,Married,52,3,Bachelor,Medical,IT Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2257,Male,Single,51,3,Bachelor,Other,Talent Partner,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2258,Male,Married,46,5,Doctor,Human Resources,Research Scientist,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E2259,Female,Married,38,3,Bachelor,Other,Talent Partner,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2260,Male,Married,48,4,Master,Life Sciences,HR Executive,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2261,Female,Married,32,1,Below College,Life Sciences,IT Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2262,Male,Divorced,39,3,Bachelor,Technical Degree,Operations Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2263,Female,Married,35,3,Bachelor,Life Sciences,Research Director,3,Mid,Travel Rarely,No,Voluntary,Work Life Imbalance,Work Environment
+E2264,Male,Single,33,3,Bachelor,Technical Degree,Research Director,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2265,Male,Married,30,3,Bachelor,Life Sciences,Sales Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2266,Female,Single,41,3,Bachelor,Medical,Laboratory Technician,2,Junior,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2267,Male,Single,23,3,Bachelor,Technical Degree,IT Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2268,Female,Married,20,3,Bachelor,Human Resources,Laboratory Technician,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2269,Male,Married,46,4,Master,Medical,Data Analyst,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2270,Male,Married,41,4,Master,Other,Research Director,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2271,Female,Single,44,2,College,Medical,Finance Manager,4,Senior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2272,Female,Married,36,4,Master,Other,Sales Representative,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2273,Male,Single,41,4,Master,Medical,Sales Executive,3,Mid,Travel Rarely,No,Voluntary,Job Role Mismatch,Growth
+E2274,Male,Single,33,3,Bachelor,Medical,Laboratory Technician,1,Entry,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2275,Male,Married,32,5,Doctor,Life Sciences,IT Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2276,Male,Single,27,2,College,Marketing,Operations Executive,1,Entry,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E2277,Female,Married,53,5,Doctor,Life Sciences,Sales Representative,2,Junior,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E2278,Female,Married,28,3,Bachelor,Medical,Laboratory Technician,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2279,Male,Single,51,2,College,Technical Degree,Sales Manager,4,Senior,Travel Frequently,No,Voluntary,Lack of Career Growth,Growth
+E2280,Female,Single,26,3,Bachelor,Life Sciences,Operations Executive,2,Junior,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E2281,Male,Divorced,29,4,Master,Medical,Software Engineer,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2282,Female,Married,48,3,Bachelor,Medical,Operations Executive,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2283,Male,Single,42,5,Doctor,Life Sciences,Supply Chain Analyst,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2284,Male,Divorced,41,3,Bachelor,Life Sciences,Research Scientist,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2285,Male,Divorced,29,4,Master,Other,Supply Chain Analyst,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2286,Male,Single,46,4,Master,Medical,Research Director,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E2287,Male,Divorced,29,3,Bachelor,Life Sciences,Operations Executive,2,Junior,Travel Rarely,Yes,Voluntary,Relocation,Personal
+E2288,Female,Married,40,2,College,Life Sciences,Sales Representative,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2289,Male,Single,31,3,Bachelor,Marketing,Supply Chain Analyst,2,Junior,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2290,Female,Married,51,4,Master,Medical,Sales Manager,4,Senior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2291,Female,Married,41,3,Bachelor,Life Sciences,Research Director,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2292,Male,Single,49,2,College,Marketing,Research Director,4,Senior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2293,Male,Single,36,1,Below College,Medical,Research Scientist,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2294,Female,Married,31,1,Below College,Other,Sales Executive,2,Junior,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E2295,Male,Single,25,2,College,Life Sciences,Accountant,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2296,Male,Married,39,1,Below College,Marketing,Operations Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2297,Male,Single,48,3,Bachelor,Life Sciences,Sales Executive,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2298,Male,Single,42,3,Bachelor,Medical,Operations Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2299,Male,Divorced,31,3,Bachelor,Technical Degree,Supply Chain Analyst,3,Mid,Travel Rarely,No,Involuntary,Performance Termination,Company Initiated
+E2300,Male,Single,33,4,Master,Life Sciences,Data Analyst,2,Junior,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E2301,Female,Married,33,4,Master,Other,Software Engineer,1,Entry,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E2302,Female,Married,37,2,College,Medical,Data Analyst,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2303,Male,Married,43,3,Bachelor,Life Sciences,Data Analyst,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2304,Female,Married,38,1,Below College,Medical,Software Engineer,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2305,Female,Divorced,43,3,Bachelor,Life Sciences,Data Analyst,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2306,Female,Divorced,41,4,Master,Marketing,Software Engineer,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2307,Female,Married,28,3,Bachelor,Life Sciences,Research Scientist,1,Entry,Travel Frequently,Yes,Still Employed,Not Applicable,Not Applicable
+E2308,Male,Divorced,38,3,Bachelor,Other,Sales Executive,1,Entry,Non-Travel,Yes,Still Employed,Not Applicable,Not Applicable
+E2309,Female,Divorced,28,3,Bachelor,Technical Degree,Software Engineer,1,Entry,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2310,Male,Divorced,38,4,Master,Human Resources,Laboratory Technician,2,Junior,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2311,Male,Married,41,3,Bachelor,Medical,IT Manager,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E2312,Female,Single,30,3,Bachelor,Other,Software Engineer,1,Entry,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E2313,Male,Single,25,4,Master,Life Sciences,Accountant,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2314,Male,Married,39,4,Master,Life Sciences,Research Director,3,Mid,Non-Travel,Yes,Still Employed,Not Applicable,Not Applicable
+E2315,Female,Single,36,4,Master,Life Sciences,Operations Executive,3,Mid,Travel Rarely,Yes,Voluntary,Poor Manager Relationship,Management
+E2316,Female,Married,47,3,Bachelor,Marketing,IT Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2317,Female,Single,31,2,College,Life Sciences,Sales Manager,3,Mid,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E2318,Female,Married,52,4,Master,Medical,Data Analyst,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2319,Male,Single,43,2,College,Marketing,Operations Executive,3,Mid,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E2320,Male,Married,24,4,Master,Life Sciences,IT Manager,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E2321,Male,Single,31,2,College,Life Sciences,Research Scientist,1,Entry,Travel Frequently,Yes,Voluntary,Work Life Imbalance,Work Environment
+E2322,Male,Married,37,3,Bachelor,Medical,Data Analyst,2,Junior,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E2323,Male,Single,36,2,College,Marketing,Sales Executive,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2324,Male,Divorced,29,4,Master,Life Sciences,Operations Executive,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2325,Female,Married,21,3,Bachelor,Marketing,Data Analyst,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2326,Male,Single,34,4,Master,Medical,Finance Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2327,Male,Married,35,2,College,Technical Degree,Sales Executive,2,Junior,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2328,Female,Single,42,3,Bachelor,Marketing,Software Engineer,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2329,Female,Married,39,2,College,Marketing,Accountant,3,Mid,Travel Frequently,Yes,Still Employed,Not Applicable,Not Applicable
+E2330,Male,Single,27,3,Bachelor,Life Sciences,Laboratory Technician,2,Junior,Non-Travel,Yes,Voluntary,Better Compensation,Pay
+E2331,Female,Divorced,44,3,Bachelor,Marketing,IT Manager,4,Senior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2332,Female,Single,32,5,Doctor,Life Sciences,IT Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2333,Male,Married,46,1,Below College,Technical Degree,Software Engineer,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2334,Male,Married,33,3,Bachelor,Life Sciences,Operations Executive,3,Mid,Travel Rarely,Yes,Voluntary,Poor Manager Relationship,Management
+E2335,Female,Single,32,2,College,Marketing,Sales Representative,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2336,Female,Divorced,37,3,Bachelor,Other,Financial Analyst,2,Junior,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E2337,Female,Single,44,1,Below College,Life Sciences,HR Executive,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2338,Male,Divorced,39,2,College,Life Sciences,HR Executive,2,Junior,Non-Travel,Yes,Still Employed,Not Applicable,Not Applicable
+E2339,Male,Married,25,5,Doctor,Marketing,Sales Executive,1,Entry,Travel Rarely,No,Voluntary,Work Life Imbalance,Work Environment
+E2340,Female,Married,46,2,College,Life Sciences,Sales Executive,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2341,Male,Single,31,1,Below College,Life Sciences,Research Director,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2342,Female,Married,24,3,Bachelor,Life Sciences,Sales Executive,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2343,Female,Married,22,4,Master,Life Sciences,Research Scientist,2,Junior,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2344,Male,Single,49,3,Bachelor,Technical Degree,Research Director,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2345,Male,Divorced,51,4,Master,Technical Degree,Operations Executive,3,Mid,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E2346,Male,Married,32,3,Bachelor,Marketing,HR Executive,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2347,Male,Divorced,34,3,Bachelor,Life Sciences,Research Scientist,3,Mid,Travel Rarely,Yes,Voluntary,Work Life Imbalance,Work Environment
+E2348,Male,Single,37,4,Master,Human Resources,Sales Manager,3,Mid,Travel Rarely,Yes,Voluntary,Work Life Imbalance,Work Environment
+E2349,Female,Married,26,3,Bachelor,Medical,Sales Manager,3,Mid,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E2350,Male,Married,38,1,Below College,Medical,Research Scientist,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2351,Male,Married,42,3,Bachelor,Technical Degree,Sales Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2352,Male,Single,33,2,College,Life Sciences,Sales Representative,1,Entry,Travel Rarely,Yes,Voluntary,Work Life Imbalance,Work Environment
+E2353,Female,Single,39,1,Below College,Medical,Research Director,3,Mid,Non-Travel,Yes,Still Employed,Not Applicable,Not Applicable
+E2354,Male,Divorced,33,2,College,Other,Sales Manager,3,Mid,Travel Rarely,No,Voluntary,Better Compensation,Pay
+E2355,Female,Single,46,1,Below College,Life Sciences,Sales Representative,1,Entry,Travel Frequently,No,Voluntary,Poor Manager Relationship,Management
+E2356,Female,Single,29,2,College,Life Sciences,Operations Manager,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2357,Male,Single,33,3,Bachelor,Technical Degree,Research Scientist,2,Junior,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2358,Female,Married,50,3,Bachelor,Life Sciences,Laboratory Technician,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2359,Male,Single,39,4,Master,Life Sciences,Operations Executive,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2360,Male,Single,59,1,Below College,Life Sciences,Supply Chain Analyst,3,Mid,Non-Travel,Yes,Voluntary,Organisational Culture,Work Environment
+E2361,Female,Single,44,2,College,Life Sciences,Supply Chain Analyst,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2362,Male,Married,47,3,Bachelor,Medical,Finance Manager,5,Executive,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2363,Male,Divorced,43,4,Master,Human Resources,Sales Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2364,Male,Divorced,30,2,College,Life Sciences,Software Engineer,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2365,Male,Single,45,3,Bachelor,Medical,Financial Analyst,3,Mid,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E2366,Female,Married,28,2,College,Other,Software Engineer,2,Junior,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E2367,Female,Married,22,5,Doctor,Other,Sales Manager,3,Mid,Travel Frequently,Yes,Voluntary,Organisational Culture,Work Environment
+E2368,Female,Single,41,3,Bachelor,Life Sciences,Sales Executive,3,Mid,Travel Frequently,Yes,Still Employed,Not Applicable,Not Applicable
+E2369,Male,Divorced,46,3,Bachelor,Marketing,IT Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2370,Female,Divorced,48,3,Bachelor,Other,Research Scientist,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2371,Female,Single,41,4,Master,Medical,IT Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2372,Male,Divorced,36,5,Doctor,Other,Supply Chain Analyst,2,Junior,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2373,Female,Married,36,4,Master,Other,Sales Executive,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E2374,Male,Married,42,3,Bachelor,Other,Finance Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2375,Male,Single,46,5,Doctor,Other,Laboratory Technician,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2376,Male,Married,37,5,Doctor,Marketing,IT Manager,3,Mid,Travel Frequently,No,Voluntary,Better Compensation,Pay
+E2377,Male,Married,43,2,College,Medical,Supply Chain Analyst,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2378,Male,Single,47,4,Master,Life Sciences,Operations Executive,3,Mid,Travel Rarely,Yes,Voluntary,Better Compensation,Pay
+E2379,Female,Married,48,4,Master,Medical,Research Scientist,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E2380,Male,Married,47,4,Master,Medical,Sales Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2381,Male,Married,45,3,Bachelor,Life Sciences,Research Scientist,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2382,Female,Married,53,5,Doctor,Marketing,Supply Chain Analyst,2,Junior,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E2383,Male,Single,29,3,Bachelor,Other,Data Analyst,1,Entry,Non-Travel,No,Voluntary,Relocation,Personal
+E2384,Male,Single,52,3,Bachelor,Medical,Research Director,3,Mid,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E2385,Male,Divorced,38,4,Master,Human Resources,Laboratory Technician,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2386,Female,Married,23,1,Below College,Marketing,IT Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2387,Female,Single,38,3,Bachelor,Other,Sales Manager,4,Senior,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2388,Male,Single,40,4,Master,Medical,Supply Chain Analyst,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2389,Male,Married,25,1,Below College,Technical Degree,Software Engineer,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2390,Male,Single,37,2,College,Life Sciences,Finance Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2391,Female,Married,20,3,Bachelor,Life Sciences,Sales Executive,1,Entry,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E2392,Female,Married,52,4,Master,Medical,Operations Manager,4,Senior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2393,Female,Married,35,3,Bachelor,Marketing,Sales Manager,3,Mid,Travel Rarely,Yes,Voluntary,Better Compensation,Pay
+E2394,Male,Single,37,4,Master,Medical,Research Scientist,2,Junior,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E2395,Female,Married,46,5,Doctor,Marketing,Data Analyst,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2396,Male,Married,37,3,Bachelor,Medical,Operations Manager,4,Senior,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E2397,Female,Married,26,3,Bachelor,Other,Sales Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2398,Male,Married,20,2,College,Life Sciences,Operations Manager,3,Mid,Non-Travel,Yes,Still Employed,Not Applicable,Not Applicable
+E2399,Male,Divorced,43,4,Master,Life Sciences,Finance Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2400,Male,Married,44,1,Below College,Life Sciences,IT Manager,3,Mid,Travel Frequently,Yes,Still Employed,Not Applicable,Not Applicable
+E2401,Male,Single,33,3,Bachelor,Medical,Operations Manager,3,Mid,Travel Frequently,Yes,Still Employed,Not Applicable,Not Applicable
+E2402,Male,Divorced,20,1,Below College,Marketing,Software Engineer,1,Entry,Travel Frequently,Yes,Still Employed,Not Applicable,Not Applicable
+E2403,Female,Married,40,3,Bachelor,Technical Degree,Operations Manager,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E2404,Male,Married,37,4,Master,Medical,Sales Representative,1,Entry,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E2405,Female,Divorced,43,5,Doctor,Life Sciences,Research Director,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2406,Female,Divorced,30,3,Bachelor,Life Sciences,Sales Representative,2,Junior,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E2407,Female,Married,20,4,Master,Life Sciences,Research Scientist,1,Entry,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2408,Female,Single,32,1,Below College,Medical,Research Scientist,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2409,Female,Married,44,4,Master,Life Sciences,Research Scientist,2,Junior,Non-Travel,Yes,Still Employed,Not Applicable,Not Applicable
+E2410,Female,Married,46,5,Doctor,Medical,Research Director,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2411,Male,Single,34,4,Master,Medical,Sales Representative,3,Mid,Travel Rarely,Yes,Voluntary,Job Role Mismatch,Growth
+E2412,Male,Single,32,3,Bachelor,Medical,Data Analyst,2,Junior,Travel Rarely,Yes,Voluntary,Work Life Imbalance,Work Environment
+E2413,Male,Single,21,3,Bachelor,Marketing,Sales Representative,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2414,Male,Married,48,2,College,Medical,Laboratory Technician,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E2415,Female,Divorced,33,2,College,Life Sciences,Operations Executive,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2416,Male,Single,31,2,College,Medical,Sales Representative,2,Junior,Non-Travel,Yes,Still Employed,Not Applicable,Not Applicable
+E2417,Female,Divorced,29,2,College,Medical,Research Scientist,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2418,Male,Married,33,3,Bachelor,Medical,Research Scientist,1,Entry,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2419,Female,Married,41,4,Master,Marketing,IT Manager,3,Mid,Travel Rarely,Yes,Voluntary,Work Life Imbalance,Work Environment
+E2420,Female,Married,34,4,Master,Medical,Sales Manager,3,Mid,Travel Rarely,No,Voluntary,Lack of Career Growth,Growth
+E2421,Male,Divorced,49,4,Master,Life Sciences,Sales Representative,2,Junior,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2422,Female,Divorced,43,3,Bachelor,Medical,Research Director,5,Executive,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2423,Male,Married,40,4,Master,Medical,Operations Executive,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2424,Male,Single,49,3,Bachelor,Other,Software Engineer,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2425,Female,Divorced,26,2,College,Life Sciences,HR Executive,1,Entry,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E2426,Male,Married,38,4,Master,Life Sciences,Data Analyst,3,Mid,Travel Frequently,Yes,Still Employed,Not Applicable,Not Applicable
+E2427,Male,Divorced,44,5,Doctor,Medical,Operations Manager,4,Senior,Travel Frequently,No,Voluntary,Higher Studies,Personal
+E2428,Female,Single,44,4,Master,Medical,Software Engineer,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2429,Male,Married,33,2,College,Life Sciences,IT Manager,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E2430,Male,Divorced,26,3,Bachelor,Life Sciences,Software Engineer,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2431,Male,Single,20,2,College,Life Sciences,Sales Executive,1,Entry,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2432,Male,Married,41,3,Bachelor,Medical,Software Engineer,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2433,Female,Single,36,3,Bachelor,Medical,Operations Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2434,Male,Single,35,5,Doctor,Marketing,Sales Manager,3,Mid,Travel Rarely,No,Involuntary,Performance Termination,Company Initiated
+E2435,Male,Single,39,5,Doctor,Other,Sales Executive,1,Entry,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E2436,Female,Married,37,1,Below College,Life Sciences,Sales Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2437,Female,Married,32,4,Master,Life Sciences,Research Scientist,1,Entry,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2438,Female,Married,44,5,Doctor,Life Sciences,Sales Representative,3,Mid,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E2439,Male,Married,25,4,Master,Medical,Laboratory Technician,1,Entry,Non-Travel,Yes,Still Employed,Not Applicable,Not Applicable
+E2440,Male,Married,27,2,College,Other,Sales Executive,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2441,Male,Single,25,3,Bachelor,Life Sciences,Sales Manager,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2442,Female,Married,34,3,Bachelor,Human Resources,Sales Executive,1,Entry,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2443,Female,Divorced,43,3,Bachelor,Medical,Sales Executive,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2444,Male,Married,30,2,College,Life Sciences,Software Engineer,3,Mid,Travel Rarely,No,Voluntary,Work Life Imbalance,Work Environment
+E2445,Female,Divorced,38,3,Bachelor,Life Sciences,Operations Executive,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2446,Male,Married,45,4,Master,Life Sciences,Accountant,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E2447,Male,Divorced,53,2,College,Medical,Software Engineer,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E2448,Female,Married,45,2,College,Medical,Financial Analyst,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2449,Male,Divorced,33,2,College,Human Resources,IT Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2450,Female,Married,24,4,Master,Medical,Operations Executive,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2451,Female,Married,20,5,Doctor,Life Sciences,Research Scientist,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2452,Female,Single,32,2,College,Life Sciences,Operations Manager,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2453,Female,Divorced,38,3,Bachelor,Life Sciences,Research Director,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E2454,Female,Single,33,2,College,Medical,Sales Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2455,Male,Divorced,55,2,College,Life Sciences,Sales Executive,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2456,Male,Divorced,26,1,Below College,Technical Degree,Data Analyst,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2457,Male,Married,32,4,Master,Technical Degree,Laboratory Technician,2,Junior,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2458,Female,Single,20,3,Bachelor,Life Sciences,Software Engineer,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2459,Female,Divorced,47,4,Master,Technical Degree,Research Scientist,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2460,Male,Married,32,4,Master,Life Sciences,Sales Executive,1,Entry,Travel Frequently,No,Voluntary,Poor Manager Relationship,Management
+E2461,Female,Married,21,3,Bachelor,Life Sciences,Financial Analyst,1,Entry,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E2462,Male,Married,36,1,Below College,Medical,Sales Representative,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E2463,Female,Single,50,5,Doctor,Life Sciences,Operations Manager,4,Senior,Non-Travel,Yes,Still Employed,Not Applicable,Not Applicable
+E2464,Male,Married,55,4,Master,Technical Degree,Research Scientist,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2465,Male,Married,35,2,College,Technical Degree,Operations Executive,2,Junior,Non-Travel,No,Still Employed,Not Applicable,Not Applicable
+E2466,Male,Single,43,3,Bachelor,Other,Sales Executive,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2467,Male,Divorced,33,4,Master,Marketing,Sales Representative,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2468,Male,Married,35,2,College,Life Sciences,Sales Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2469,Female,Single,32,3,Bachelor,Other,IT Manager,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2470,Male,Single,51,3,Bachelor,Marketing,Research Scientist,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2471,Male,Divorced,31,3,Bachelor,Marketing,Financial Analyst,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2472,Male,Single,20,4,Master,Life Sciences,Research Scientist,2,Junior,Non-Travel,Yes,Still Employed,Not Applicable,Not Applicable
+E2473,Female,Married,27,3,Bachelor,Life Sciences,Sales Executive,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2474,Female,Single,31,4,Master,Medical,Sales Executive,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2475,Female,Single,39,4,Master,Technical Degree,Finance Manager,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2476,Female,Married,32,3,Bachelor,Medical,Research Scientist,2,Junior,Travel Frequently,Yes,Still Employed,Not Applicable,Not Applicable
+E2477,Male,Married,39,2,College,Life Sciences,IT Manager,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E2478,Female,Married,39,3,Bachelor,Life Sciences,Software Engineer,3,Mid,Travel Rarely,Yes,Voluntary,Organisational Culture,Work Environment
+E2479,Male,Divorced,34,3,Bachelor,Life Sciences,Data Analyst,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2480,Female,Married,43,3,Bachelor,Human Resources,Sales Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2481,Female,Single,29,2,College,Other,Laboratory Technician,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2482,Female,Married,28,4,Master,Medical,Sales Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2483,Male,Married,45,4,Master,Medical,Data Analyst,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2484,Male,Married,37,5,Doctor,Life Sciences,Sales Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2485,Female,Divorced,20,3,Bachelor,Medical,Research Scientist,1,Entry,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E2486,Male,Divorced,33,2,College,Medical,Sales Representative,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2487,Female,Married,42,4,Master,Life Sciences,Sales Representative,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2488,Male,Married,50,1,Below College,Other,IT Manager,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2489,Male,Married,43,3,Bachelor,Life Sciences,Accountant,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2490,Male,Married,40,3,Bachelor,Medical,Research Director,3,Mid,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2491,Male,Single,46,3,Bachelor,Life Sciences,Supply Chain Analyst,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2492,Male,Married,46,3,Bachelor,Life Sciences,Research Scientist,3,Mid,Travel Frequently,No,Still Employed,Not Applicable,Not Applicable
+E2493,Male,Married,47,3,Bachelor,Medical,IT Manager,4,Senior,Travel Rarely,No,Voluntary,Better Compensation,Pay
+E2494,Male,Married,27,3,Bachelor,Life Sciences,Data Analyst,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2495,Male,Married,36,3,Bachelor,Other,Sales Executive,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2496,Female,Single,23,1,Below College,Marketing,Laboratory Technician,1,Entry,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2497,Female,Divorced,46,2,College,Life Sciences,Sales Representative,2,Junior,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
+E2498,Male,Single,31,1,Below College,Technical Degree,Research Scientist,1,Entry,Travel Rarely,Yes,Still Employed,Not Applicable,Not Applicable
+E2499,Female,Single,28,5,Doctor,Human Resources,Laboratory Technician,2,Junior,Travel Rarely,Yes,Voluntary,Organisational Culture,Work Environment
+E2500,Female,Married,53,2,College,Life Sciences,Operations Manager,3,Mid,Travel Rarely,No,Still Employed,Not Applicable,Not Applicable
